@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dendua.com/"/>
-  <updated>2017-08-16T07:02:53.604Z</updated>
+  <updated>2017-08-16T07:40:33.987Z</updated>
   <id>http://dendua.com/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Người Ấn Độ lấy tên miền Dendua.com làm tên miền của thị trấn</title>
+    <link href="http://dendua.com/2017/08/16/india-choice-dendua-official-website-of-the-town/"/>
+    <id>http://dendua.com/2017/08/16/india-choice-dendua-official-website-of-the-town/</id>
+    <published>2017-08-16T07:39:32.603Z</published>
+    <updated>2017-08-16T07:40:33.987Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Có vẻ như ở Ấn độ có một con đường mang tên Dendua hay sao mà họ lấy luôn tên miền dendua.com mình đang sử dụng làm tên miền mặc định của thị trấn họ?? it’s funny.</p>
+<p>Các bạn có thể check thông tin như sau <a href="https://www.google.com/maps/place/Dendua,+West+Bengal,+India/@23.7826766,86.8657901,16.75z/data=!4m13!1m7!3m6!1s0x39f6df0129a9ed7f:0x3ee0da3b01db925b!2sDendua,+West+Bengal,+India!3b1!8m2!3d23.7829483!4d86.8665719!3m4!1s0x39f6df0129a9ed7f:0x3ee0da3b01db925b!8m2!3d23.7829483!4d86.8665719" target="_blank" rel="external">https://www.google.com/maps/place/Dendua,+West+Bengal,+India/@23.7826766,86.8657901,16.75z/data=!4m13!1m7!3m6!1s0x39f6df0129a9ed7f:0x3ee0da3b01db925b!2sDendua,+West+Bengal,+India!3b1!8m2!3d23.7829483!4d86.8665719!3m4!1s0x39f6df0129a9ed7f:0x3ee0da3b01db925b!8m2!3d23.7829483!4d86.8665719</a></p>
+<p>Cũng hay thật nhỉ?</p>
+<p>Chả biết phải ứng phó làm sao với mấy ông ấn độ cả, thôi tóm gọn lại chắc là gia hạn tên miền kẻo mất luôn với mấy chả quá :v bó tay.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Có vẻ như ở Ấn độ có một con đường mang tên Dendua hay sao mà họ lấy luôn tên miền dend
+    
+    </summary>
+    
+      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
+    
+    
+      <category term="India" scheme="http://dendua.com/tags/India/"/>
+    
+      <category term="Official" scheme="http://dendua.com/tags/Official/"/>
+    
+      <category term="Website" scheme="http://dendua.com/tags/Website/"/>
+    
+      <category term="Town" scheme="http://dendua.com/tags/Town/"/>
+    
+  </entry>
   
   <entry>
     <title>Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản</title>
@@ -2480,13 +2512,13 @@
       <category term="TMB" scheme="http://dendua.com/categories/TMB/"/>
     
     
+      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
+    
       <category term="Gatsby" scheme="http://dendua.com/tags/Gatsby/"/>
     
       <category term="GitHub" scheme="http://dendua.com/tags/GitHub/"/>
     
       <category term="Netlify" scheme="http://dendua.com/tags/Netlify/"/>
-    
-      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
     
       <category term="1And1" scheme="http://dendua.com/tags/1And1/"/>
     
@@ -3068,205 +3100,6 @@ prefixLink(&#39;/&#39;)
       <category term="Family" scheme="http://dendua.com/tags/Family/"/>
     
       <category term="Cooking" scheme="http://dendua.com/tags/Cooking/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TKL-Hexo Theme từ KIERAN&#39;S BLOG</title>
-    <link href="http://dendua.com/2017/06/26/tkl-hexo-theme-kieran-blog/"/>
-    <id>http://dendua.com/2017/06/26/tkl-hexo-theme-kieran-blog/</id>
-    <published>2017-06-26T08:06:01.063Z</published>
-    <updated>2017-06-26T08:21:47.903Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>TKL is a responsive design theme dành cho Open source Static Content <strong>Hexo</strong>.</p>
-<h2 id="Live-demo"><a href="#Live-demo" class="headerlink" title="Live demo"></a>Live demo</h2><p><a href="http://go.kieran.top/" target="_blank" rel="external">Xem Demo Theme | Kieran’s Blog</a></p>
-<h2 id="Screenshot"><a href="#Screenshot" class="headerlink" title="Screenshot"></a>Screenshot</h2><p><img src="https://c1.staticflickr.com/5/4217/34732990483_b0eeb893ed_b.jpg" alt="TKL Theme" title="TKL Theme"><br><code>Index</code></p>
-<p><img src="https://c1.staticflickr.com/5/4241/34732990143_f143dbb3a6_b.jpg" alt="Blog demo" title="Blog demo"><br><code>Blog demo</code></p>
-<h1 id="Install-Cai-dat"><a href="#Install-Cai-dat" class="headerlink" title="Install / Cài đặt"></a>Install / Cài đặt</h1><p>Chạy dòng lệnh này để cài theme, </p>
-<pre><code>git clone https://github.com/SuperKieran/TKL.git
-</code></pre><p>và sửa file <code>_config.xml</code> trong theme thành <code>TKL</code></p>
-<h1 id="Update-Cap-nhat-Theme"><a href="#Update-Cap-nhat-Theme" class="headerlink" title="Update / Cập nhật Theme"></a>Update / Cập nhật Theme</h1><p>Chạy dòng lệnh này để cập nhật phiên bản mới nhất Theme<br>Execute the following command to update TKL.</p>
-<pre><code>cd themes/TKL
-git pull
-</code></pre><h1 id="Config-Cau-hinh"><a href="#Config-Cau-hinh" class="headerlink" title="Config / Cấu hình"></a>Config / Cấu hình</h1><pre><code>cover: /img/bg_img.jpg
-logo: /img/logo.png
-top_saying:
-- title: YOU&#39;VE MADE A &lt;span&gt;BRAVE&lt;/span&gt; DECISION, WELCOME.
-- content: 每一个不曾起舞的日子都是对生命的辜负。
-bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
-
-excerpt_link: Read More
-
-rss: /atom.xml
-
-works:
-- works_name: XXX1
-  works_url: /
-- works_name: XXX2
-  works_url: /
-
-duoshuo: duoshuo_name
-
-github: https://github.com/
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-google:  https://google.com/
-weibo: http://weibo.com/
-
-timeline:
-- num: 1
-  word: 2014/06/12-Start xxx
-- num: 2
-  word: 2014/11/29-Start bbb
-- num: 3
-  word: 2015/02/18-Start ddd
-- num: 4
-  word: ...
-
-links:
-- name: Kieran
-  link: http://go.kieran.top/
-- name: Name
-  link: http://domain.com/
-  cover: /img/bg_img.jpg
-logo: /img/logo.png
-top_saying:
-- title: YOU&#39;VE MADE A &lt;span&gt;BRAVE&lt;/span&gt; DECISION, WELCOME.
-- content: 每一个不曾起舞的日子都是对生命的辜负。
-bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
-
-excerpt_link: Read More
-
-rss: /atom.xml
-
-works:
-- works_name: XXX1
-  works_url: /
-- works_name: XXX2
-  works_url: /
-
-duoshuo: duoshuo_name
-
-github: https://github.com/
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-google:  https://google.com/
-weibo: http://weibo.com/
-
-timeline:
-- num: 1
-  word: 2014/06/12-Start xxx
-- num: 2
-  word: 2014/11/29-Start bbb
-- num: 3
-  word: 2015/02/18-Start ddd
-- num: 4
-  word: ...
-
-links:
-- name: Kieran
-  link: http://go.kieran.top/
-- name: Name
-  link: http://domain.com/
-
-cover: /img/bg_img.jpg
-logo: /img/logo.png
-top_saying:
-- title: YOU&#39;VE MADE A &lt;span&gt;BRAVE&lt;/span&gt; DECISION, WELCOME.
-- content: 每一个不曾起舞的日子都是对生命的辜负。
-bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
-
-excerpt_link: Read More
-
-rss: /atom.xml
-
-works:
-- works_name: XXX1
-  works_url: /
-- works_name: XXX2
-  works_url: /
-
-duoshuo: duoshuo_name
-
-github: https://github.com/
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-google:  https://google.com/
-weibo: http://weibo.com/
-
-timeline:
-- num: 1
-  word: 2014/06/12-Start xxx
-- num: 2
-  word: 2014/11/29-Start bbb
-- num: 3
-  word: 2015/02/18-Start ddd
-- num: 4
-  word: ...
-
-links:
-- name: Kieran
-  link: http://go.kieran.top/
-- name: Name
-  link: http://domain.com/
-  cover: /img/bg_img.jpg
-logo: /img/logo.png
-top_saying:
-- title: YOU&#39;VE MADE A &lt;span&gt;BRAVE&lt;/span&gt; DECISION, WELCOME.
-- content: 每一个不曾起舞的日子都是对生命的辜负。
-bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
-
-excerpt_link: Read More
-
-rss: /atom.xml
-
-works:
-- works_name: XXX1
-  works_url: /
-- works_name: XXX2
-  works_url: /
-
-duoshuo: duoshuo_name
-
-github: https://github.com/
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-google:  https://google.com/
-weibo: http://weibo.com/
-
-timeline:
-- num: 1
-  word: 2014/06/12-Start xxx
-- num: 2
-  word: 2014/11/29-Start bbb
-- num: 3
-  word: 2015/02/18-Start ddd
-- num: 4
-  word: ...
-
-links:
-- name: Kieran
-  link: http://go.kieran.top/
-- name: Name
-  link: http://domain.com/
-</code></pre><h1 id="Icon"><a href="#Icon" class="headerlink" title="Icon"></a>Icon</h1><p>Seclet icon which you like in <code>\TKL\source\css\iconList.css</code></p>
-<p><img src="https://c1.staticflickr.com/5/4205/34732990713_6df085a2cf_o.png" alt="Icon" title="Icon"> </p>
-<p><img src="https://c1.staticflickr.com/5/4279/34732990553_71b033f986_o.png" alt="Icon" title="Icon"> </p>
-<h1 id="Fork-or-Git"><a href="#Fork-or-Git" class="headerlink" title="Fork or Git"></a>Fork or Git</h1><p>Tải theme, bằng cách Fork. <a href="https://github.com/SuperKieran/TKL/fork" target="_blank" rel="external"><strong>TKL Theme Hexo</strong></a>.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;TKL is a responsive design theme dành cho Open source Static Content &lt;strong&gt;Hexo&lt;/stro
-    
-    </summary>
-    
-      <category term="Hexo" scheme="http://dendua.com/categories/Hexo/"/>
-    
-    
-      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
-    
-      <category term="Theme" scheme="http://dendua.com/tags/Theme/"/>
     
   </entry>
   
