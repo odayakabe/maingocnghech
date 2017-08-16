@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dendua.com/"/>
-  <updated>2017-08-15T18:44:21.382Z</updated>
+  <updated>2017-08-16T07:02:53.604Z</updated>
   <id>http://dendua.com/</id>
   
   <author>
@@ -14,6 +14,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản</title>
+    <link href="http://dendua.com/2017/08/16/website-bakadono-build-info/"/>
+    <id>http://dendua.com/2017/08/16/website-bakadono-build-info/</id>
+    <published>2017-08-16T07:01:38.021Z</published>
+    <updated>2017-08-16T07:02:53.604Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Hiện tại thì <strong>Bakadono</strong> vẫn đang trong quá trình xây dựng và tổng hợp dữ liệu và chỉnh sửa giao diện cho phù hợp hiển thị trên mọi loại trình duyệt như trên điện thoại, laptop, máy tính để bàn, tablet, hay máy tính bảng vân vân….</p>
+<p>Chủ yếu vẫn là kiểm tra luồng thông tin và cập nhật vào một cách có khoa học.</p>
+<p>Các chủ đề chính xây dựng để lưu trữ các dữ liệu thu được đó là:</p>
+<blockquote>
+<ul>
+<li>Học tiếng Nhật Bản</li>
+<li>Thông tin du học Nhật Bản (điều kiện, du học, trường, chi phí, vân vân…)</li>
+<li>Sở hữu tài sản nhà đất, mua nhà tại Nhật Bản.</li>
+<li>Văn hóa, nghệ thuật Nhật Bản</li>
+<li>Định cư tại Nhật.</li>
+<li>… vân vân … chưa kịp thống kê</li>
+</ul>
+</blockquote>
+<h2 id="Trong-qua-trinh-xay-dung"><a href="#Trong-qua-trinh-xay-dung" class="headerlink" title="Trong qúa trình xây dựng"></a>Trong qúa trình xây dựng</h2><p>Địa chỉ: <a href="http://bakadono.ga" target="_blank" rel="external">http://bakadono.ga</a><br>Data center đặt tại Singapore &amp; Google.</p>
+<p>Bakadono được xây dựng như thế nào?</p>
+<h1 id="Framework"><a href="#Framework" class="headerlink" title="Framework"></a>Framework</h1><p>Dựa trên nguyên mẫu thiết kế gốc có tên gọi là <strong>Nihonne</strong>. Phiên bản 0.0.9.<br>Tạo dựng vào năm 2017 bằng Static Generator Content <strong>Gatsby</strong>.</p>
+<h1 id="Hosting"><a href="#Hosting" class="headerlink" title="Hosting"></a>Hosting</h1><p>Sử dụng nền tảng lưu trữ mã nguồn mở <strong>GitHub</strong> và Deploy lên <strong>Netlify</strong> server data đặt tại Amazon AWS Singapore.</p>
+<h1 id="Ten-mien"><a href="#Ten-mien" class="headerlink" title="Tên miền"></a>Tên miền</h1><p>Sử dụng tên miền miễn phí dạng <strong>.tk</strong>, <strong>.ga</strong>, <strong>.ml</strong>, <strong>.cf</strong> và <strong>.gq</strong> miễn phí trong 12 tháng và có thể gia hạn bất kỳ lúc nào tùy thích.<br>Nhược điểm là có thể bị mất tên miền bất kỳ lúc nào, bởi giá back-order lại chỉ là $5.00/mỗi tên miền.</p>
+<h2 id="Tin-nhiem"><a href="#Tin-nhiem" class="headerlink" title="Tín nhiệm"></a>Tín nhiệm</h2><p>Bakadono và Nihonne chỉ tín nhiệm duy nhất nhà cung cấp tên miền <strong>Freenom</strong>. Xem chi tiết bảng giá của họ ở đường dẫn này <a href="http://www.freenom.com/vi/pricechart.html" target="_blank" rel="external">http://www.freenom.com/vi/pricechart.html</a></p>
+<h2 id="Hoan-thien"><a href="#Hoan-thien" class="headerlink" title="Hoàn thiện"></a>Hoàn thiện</h2><p>Địa chỉ <a href="http://bakadono.com" target="_blank" rel="external">http://bakadono.com</a><br>Data center đặt tại Singapore &amp; Google.</p>
+<p>Các thông tin này chủ yếu sử dụng nội bộ. Có thể có các thông tin không chính xác nên bạn đọc có thể kiểm tra và gửi bản chỉnh sửa phù hợp.</p>
+<p>Khuyến khích phát triển và cộng tác.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Hiện tại thì &lt;strong&gt;Bakadono&lt;/strong&gt; vẫn đang trong quá trình xây dựng và tổng hợp dữ
+    
+    </summary>
+    
+      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+    
+    
+      <category term="Website" scheme="http://dendua.com/tags/Website/"/>
+    
+      <category term="Bakadono" scheme="http://dendua.com/tags/Bakadono/"/>
+    
+      <category term="Build" scheme="http://dendua.com/tags/Build/"/>
+    
+  </entry>
   
   <entry>
     <title>Phim về Miyamoto Musashi và cuốn sách Go Rin no Sho Ngũ Luân Thư bản dịch Tiếng Việt</title>
@@ -3219,65 +3267,6 @@ links:
       <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
     
       <category term="Theme" scheme="http://dendua.com/tags/Theme/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Một vài Open source thiết kế đẹp ứng dụng được cho doanh nghiệp</title>
-    <link href="http://dendua.com/2017/06/26/mot-so-open-source-thiet-ke-dep-ung-dung-cho-doanh-nghiep/"/>
-    <id>http://dendua.com/2017/06/26/mot-so-open-source-thiet-ke-dep-ung-dung-cho-doanh-nghiep/</id>
-    <published>2017-06-26T08:02:15.521Z</published>
-    <updated>2017-06-26T08:03:07.595Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Phần lớn các Open Source này đến từ đơn vị thiết kế <a href="https://coriolan-ui.github.io/" target="_blank" rel="external"><strong>Coriolan Ui</strong></a>. Ứng dụng từ Framework của Jekyll.</p>
-<h1 id="Sentimony-Records"><a href="#Sentimony-Records" class="headerlink" title="Sentimony Records"></a>Sentimony Records</h1><p>link: <a href="https://sentimony.com" target="_blank" rel="external">https://sentimony.com</a></p>
-<p>source: <a href="https://github.com/sentimony/sentimony-jekyll" target="_blank" rel="external">https://github.com/sentimony/sentimony-jekyll</a></p>
-<p>Web development of Skoryk Competition site</p>
-<h1 id="BBQ-Agency"><a href="#BBQ-Agency" class="headerlink" title="BBQ Agency"></a>BBQ Agency</h1><p>link: <a href="https://bbq.agency" target="_blank" rel="external">https://bbq.agency</a></p>
-<p>source: <a href="https://github.com/bbq-agency/bbq-agency.github.io" target="_blank" rel="external">https://github.com/bbq-agency/bbq-agency.github.io</a></p>
-<p>Web development of BBQ Agency site</p>
-<h1 id="Coriolan-UI"><a href="#Coriolan-UI" class="headerlink" title="Coriolan UI"></a>Coriolan UI</h1><p>link: <a href="https://coriolan-ui.github.io" target="_blank" rel="external">https://coriolan-ui.github.io</a></p>
-<p>source: <a href="https://github.com/coriolan-ui/coriolan-ui.github.io" target="_blank" rel="external">https://github.com/coriolan-ui/coriolan-ui.github.io</a></p>
-<p>Web development of Coriolan UI site</p>
-<h1 id="Nebo-Agency"><a href="#Nebo-Agency" class="headerlink" title="Nebo Agency"></a>Nebo Agency</h1><p>link: <a href="https://nebo.ua" target="_blank" rel="external">https://nebo.ua</a></p>
-<p>source: <a href="https://github.com/rooooster/nebo" target="_blank" rel="external">https://github.com/rooooster/nebo</a></p>
-<p>Web development of Nebo Agency site</p>
-<h1 id="Newsman"><a href="#Newsman" class="headerlink" title="Newsman"></a>Newsman</h1><p>link: <a href="https://rooooster.github.io/newsman" target="_blank" rel="external">https://rooooster.github.io/newsman</a></p>
-<p>source: <a href="https://github.com/rooooster/newsman" target="_blank" rel="external">https://github.com/rooooster/newsman</a></p>
-<p>Web development of Newsman site</p>
-<h1 id="Rooster-Studio"><a href="#Rooster-Studio" class="headerlink" title="Rooster Studio"></a>Rooster Studio</h1><p>link: <a href="https://rooooster.com" target="_blank" rel="external">https://rooooster.com</a></p>
-<p>source: <a href="https://github.com/rooooster/rooooster.github.io" target="_blank" rel="external">https://github.com/rooooster/rooooster.github.io</a></p>
-<p>Web development of Rooster Studio site</p>
-<h1 id="Monte-Carlo-Riviera"><a href="#Monte-Carlo-Riviera" class="headerlink" title="Monte Carlo Riviera"></a>Monte Carlo Riviera</h1><p>link: <a href="https://mcriviera.com" target="_blank" rel="external">https://mcriviera.com</a></p>
-<p>source: <a href="https://github.com/rooooster/mcriviera" target="_blank" rel="external">https://github.com/rooooster/mcriviera</a></p>
-<p>Web development of Monte Carlo Riviera site</p>
-<h1 id="Skoryk-Competition"><a href="#Skoryk-Competition" class="headerlink" title="Skoryk Competition"></a>Skoryk Competition</h1><p>link: <a href="https://rooooster.github.io/skoryk" target="_blank" rel="external">https://rooooster.github.io/skoryk</a></p>
-<p>source: <a href="https://github.com/rooooster/skoryk" target="_blank" rel="external">https://github.com/rooooster/skoryk</a></p>
-<p>Web development of Skoryk Competition site</p>
-<h1 id="Ihor-Orlovskyi"><a href="#Ihor-Orlovskyi" class="headerlink" title="Ihor Orlovskyi"></a>Ihor Orlovskyi</h1><p>link: <a href="https://ihororlovskyi.com" target="_blank" rel="external">https://ihororlovskyi.com</a></p>
-<p>source: <a href="https://github.com/ihororlovskyi/ihororlovskyi" target="_blank" rel="external">https://github.com/ihororlovskyi/ihororlovskyi</a></p>
-<p>Web development of Ihor Orlovskyi site</p>
-<h1 id="Codereamer"><a href="#Codereamer" class="headerlink" title="Codereamer"></a>Codereamer</h1><p>link: <a href="https://rooooster.github.io/codereamer" target="_blank" rel="external">https://rooooster.github.io/codereamer</a></p>
-<p>source: <a href="https://github.com/rooooster/codereamer" target="_blank" rel="external">https://github.com/rooooster/codereamer</a></p>
-<p>Web development of Codereamer site</p>
-<h1 id="VatmanMan"><a href="#VatmanMan" class="headerlink" title="VatmanMan"></a>VatmanMan</h1><p>link: <a href="https://rooooster.github.io/vatmanman" target="_blank" rel="external">https://rooooster.github.io/vatmanman</a></p>
-<p>source: <a href="https://github.com/rooooster/vatmanman" target="_blank" rel="external">https://github.com/rooooster/vatmanman</a></p>
-<p>Web development of VatmanMan page</p>
-<h1 id="Credits"><a href="#Credits" class="headerlink" title="Credits"></a>Credits</h1><p>Tất cả các nội dung trên của © Coriolan UI<br>Powered by BBQ Agency</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Phần lớn các Open Source này đến từ đơn vị thiết kế &lt;a href=&quot;https://coriolan-ui.github
-    
-    </summary>
-    
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
-    
-    
-      <category term="Opensource" scheme="http://dendua.com/tags/Opensource/"/>
-    
-      <category term="Jekyll" scheme="http://dendua.com/tags/Jekyll/"/>
     
   </entry>
   
