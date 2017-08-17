@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dendua.com/"/>
-  <updated>2017-08-16T20:04:39.725Z</updated>
+  <updated>2017-08-17T08:42:04.453Z</updated>
   <id>http://dendua.com/</id>
   
   <author>
@@ -14,6 +14,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Lists of Films Samurai by Bakadono</title>
+    <link href="http://dendua.com/2017/08/17/lists-of-films-samurai-bakadono/"/>
+    <id>http://dendua.com/2017/08/17/lists-of-films-samurai-bakadono/</id>
+    <published>2017-08-17T08:41:25.204Z</published>
+    <updated>2017-08-17T08:42:04.453Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Bắt đầu Rạng sáng (12:40AM sáng ngày 17/08/2017).<br>Một phần vì rảnh rỗi, và đang trong thời gian thất nghiệp. Kiếm không ra tiền. Nên dành thời gian giải trí và nghiên cứu tài liệu học hỏi.<br>Một phần vì đam mê Nhật Bản, Ngôn ngữ, phim ảnh, Anime, văn hóa … vân vân…<br>Và một phần nữa <strong>không kém phần quan trọng</strong> đấy là trong quá trình thu thập phim xem, thì phát hiện một điều rằng đa phần các phim này chiếu rất rời rạc không có sự thống nhất bởi các trang phim ảnh, mà vietsub cho một vài phim hiếm cũng không có.</p>
+<p><strong>Trong quá trình tìm phim</strong> để xem, rất khổ và tốn nhiều mồ hôi xương máu <strong>mới lôi ra được</strong> bản gốc để xem.</p>
+<p>Bởi thế cho nên, dành thời gian để vừa tìm phim về xem, vừa tìm chỗ lưu trữ để dành mà làm thành cái topic này., Cốt chủ yếu là làm chỗ mua vui cho anh chị em có chỗ giải trí thỏa mãn nhu cầu tìm hiểu, xem phim ảnh về Samurai cho đỡ nghiền.</p>
+<p>Công sức này là của tôi, và phần lớn thời gian là dành cho Upload phim cho nên có thể dự án này phải mất đến 1 tuần, đến 2 tuần áng chừng. Vì vậy rất quý trọng cái dự án be bé này của bản thân hy vọng mọi người được dịp giải trí cho đầy đủ tiện nghi.</p>
+<h2 id="Danh-muc-phim"><a href="#Danh-muc-phim" class="headerlink" title="Danh mục phim"></a>Danh mục phim</h2><p><strong>Important</strong> Dung lượng và chất lượng mỗi phim đều tốt.</p>
+<p>SAKURA,SAKURA 2011</p>
+<p>Release Date : March, 5th, 2011<br>Running Time : 133 min<br>[ Directed by ] ICHIKAWA Toru</p>
+<p>Danh muc dang cho cap nhat</p>
+<h2 id="Download-phim"><a href="#Download-phim" class="headerlink" title="Download phim"></a>Download phim</h2><p>Vẫn đang trong quá trình upload và tìm host lâu bền nên vui lòng quay lại sau nhé.</p>
+<p><strong>Nguồn</strong> tổng hợp từ: <a href="http://jfdb.jp" target="_blank" rel="external">http://jfdb.jp</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Bắt đầu Rạng sáng (12:40AM sáng ngày 17/08/2017).&lt;br&gt;Một phần vì rảnh rỗi, và đang tron
+    
+    </summary>
+    
+      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
+    
+    
+      <category term="Japan" scheme="http://dendua.com/tags/Japan/"/>
+    
+      <category term="Jidaigeki" scheme="http://dendua.com/tags/Jidaigeki/"/>
+    
+      <category term="Movies" scheme="http://dendua.com/tags/Movies/"/>
+    
+  </entry>
   
   <entry>
     <title>Thể loại phim Nhật Bản Jidai-geki (thời đại kịch)</title>
@@ -3063,13 +3099,13 @@
       <category term="TMB" scheme="http://dendua.com/categories/TMB/"/>
     
     
+      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
+    
       <category term="Gatsby" scheme="http://dendua.com/tags/Gatsby/"/>
     
       <category term="GitHub" scheme="http://dendua.com/tags/GitHub/"/>
     
       <category term="Netlify" scheme="http://dendua.com/tags/Netlify/"/>
-    
-      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
     
       <category term="1And1" scheme="http://dendua.com/tags/1And1/"/>
     
@@ -3468,115 +3504,6 @@
       <category term="Plant" scheme="http://dendua.com/tags/Plant/"/>
     
       <category term="Rau" scheme="http://dendua.com/tags/Rau/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cài đặt Gatsby và Push lên GitHub hay Netlify</title>
-    <link href="http://dendua.com/2017/06/30/cai-dat-gatsby-va-push-github-netlify/"/>
-    <id>http://dendua.com/2017/06/30/cai-dat-gatsby-va-push-github-netlify/</id>
-    <published>2017-06-30T13:18:07.463Z</published>
-    <updated>2017-06-30T13:46:26.949Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Blazing fast React.js static site generator. Tương đối phức tạp hơn so với <strong>Hexo</strong>.</p>
-<h1 id="Gatsby-la-gi"><a href="#Gatsby-la-gi" class="headerlink" title="Gatsby là gì?"></a>Gatsby là gì?</h1><p>Gatsby là loại công nghệ web mới nhất. với nền tảng <strong>React.js</strong> tốc độ cao, tạo ra content tĩnh.</p>
-<p>Hỗ trợ viết <strong>pages</strong> &amp; <strong>post</strong> bằng định dạng Markdown, HTML, và React.js xử lý các tác vụ. Dễ dàng tạo ra những bản file types hỗ trợ khác nhau.</p>
-<h1 id="Thanh-tuu-ma-Gatsby-dat-duoc"><a href="#Thanh-tuu-ma-Gatsby-dat-duoc" class="headerlink" title="Thành tựu mà Gatsby đạt được"></a>Thành tựu mà Gatsby đạt được</h1><blockquote>
-<ul>
-<li>No-reload page transitions</li>
-<li>Hot reload editing. Tweak your pages, templates, and styles and see changes in real time.</li>
-<li>Make React.js component model and ecosystem available for building static sites</li>
-<li>Intuitive directory-based URLs. The URL of a page is derived from its spot on the file system.</li>
-<li>Support “Starters” — install starter sites directly from Github. Use open sourced starters or build your own.</li>
-</ul>
-</blockquote>
-<h1 id="Vi-sao-dung-Gatsby-thay-cho-nhung-Open-source-tao-content-tinh-khac"><a href="#Vi-sao-dung-Gatsby-thay-cho-nhung-Open-source-tao-content-tinh-khac" class="headerlink" title="Vì sao dùng Gatsby thay cho những Open source tạo content tĩnh khác?"></a>Vì sao dùng Gatsby thay cho những Open source tạo content tĩnh khác?</h1><blockquote>
-<ul>
-<li>No-refresh page transitions</li>
-<li>The awesome React.js component model</li>
-<li>Live editing on every part of your site. Dramatically speed development.</li>
-</ul>
-</blockquote>
-<h1 id="Getting-started"><a href="#Getting-started" class="headerlink" title="Getting started"></a>Getting started</h1><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><p>Cài đặt Gatsby vào trong hệ thống máy khi đã có Node.js<br><code>npm install -g gatsby</code></p>
-<h2 id="Tao-voi-Source-mac-dinh"><a href="#Tao-voi-Source-mac-dinh" class="headerlink" title="Tạo với Source mặc định"></a>Tạo với Source mặc định</h2><ol>
-<li>Create new Gatsby site <code>gatsby new my-test-gatsby-site</code> This creates the directory for your Gatsby project and adds the minimal files needed.</li>
-<li><code>cd my-test-gatsby-site</code></li>
-<li><code>gatsby develop</code> — Gatsby will start a hot-reloading development server accessible at localhost:8000<br>See the tutorial below for more.</li>
-</ol>
-<h2 id="Gatsby-Starters"><a href="#Gatsby-Starters" class="headerlink" title="Gatsby Starters"></a>Gatsby Starters</h2><p>The Gatsby CLI tool lets you install “starters”. These are partially built sites preconfigured to help you get moving faster on creating a certain type of site.</p>
-<p>When creating a new site, you can optionally specify a starter to base your new site on e.g. <code>gatsby new [SITE_DIRECTORY] [URL_OF_STARTER]</code></p>
-<p>For example, to quickly create a blog using Gatsby, you could install the Gatsby Starter Blog by running:</p>
-<p><code>gatsby new blog https://github.com/gatsbyjs/gatsby-starter-blog</code></p>
-<p>This downloads the files and initializes the site by running npm install</p>
-<p>If you don’t specify a custom starter, your site will be created from the default starter.</p>
-<h1 id="Deploying-to-Github-Pages-and-other-hosts-where-your-site’s-links-need-prefixes"><a href="#Deploying-to-Github-Pages-and-other-hosts-where-your-site’s-links-need-prefixes" class="headerlink" title="Deploying to Github Pages (and other hosts where your site’s links need prefixes)"></a>Deploying to Github Pages (and other hosts where your site’s links need prefixes)</h1><p>Gatsby supports automatically prefixing links with its <code>prefixLink</code> helper function.</p>
-<p>First set the prefix in your config file e.g. <code>linkPrefix = &#39;/your-project&#39;</code></p>
-<p>Then simply import the function and run all links in your site through it e.g.</p>
-<pre><code>import { prefixLink } from &#39;gatsby-helpers&#39;
-
-prefixLink(&#39;/&#39;)
-// During development this will return &quot;/&quot;
-// When deployed to example.github.io/your-project/ this will return &quot;/your-project/&quot;
-</code></pre><p>Then finally, when building your site, run <code>gatsby build --prefix-links</code></p>
-<p>The built site is now in <code>/public</code>. These files need copied to your <code>gh-pages</code> branch and committed and pushed. You can do this manually or use the handy <a href="https://www.npmjs.com/package/gh-pages" target="_blank" rel="external"><code>gh-pages</code></a> CLI tool.</p>
-<p>Both the sample sites are deployed to github pages and use link prefixing. Read their source for more help: <a href="https://github.com/gatsbyjs/gatsby-starter-documentation" target="_blank" rel="external">documentation</a>/<a href="https://github.com/gatsbyjs/gatsby-starter-blog" target="_blank" rel="external">blog</a>.</p>
-<h1 id="Kinh-nghiem-Thao-Am"><a href="#Kinh-nghiem-Thao-Am" class="headerlink" title="Kinh nghiệm Thảo Am"></a>Kinh nghiệm Thảo Am</h1><p>Tạo repository ở Github. tránh gặp lỗi, tốt nhất chả nên tạo README, license hay gitignore. Thêm những file này sau khi project đẩy lên github thành công</p>
-<p>Mở Terminal (dành cho máy Mac) hoặc <strong>CMD</strong> command prompt (Windows và Linux).</p>
-<h2 id="Cai-dat"><a href="#Cai-dat" class="headerlink" title="Cài đặt"></a>Cài đặt</h2><pre class="line-numbers language-js"><code class="language-js">npm install <span class="token operator">-</span>g gatsby
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>Tạo thư mục chứa source</p>
-<pre class="line-numbers language-js"><code class="language-js">cd <span class="token operator">~</span><span class="token operator">/</span>PATH<span class="token operator">/</span>TO<span class="token regex">/thu_muc_chua_gatsby/</span>
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>Initialize the local directory as a Git repository.</p>
-<pre class="line-numbers language-js"><code class="language-js">git init
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>Add the files in your new local repository. This stages them for the first commit.</p>
-<pre class="line-numbers language-js"><code class="language-js">git add <span class="token punctuation">.</span>
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>Commit the files that you’ve staged in your local repository.</p>
-<pre class="line-numbers language-js"><code class="language-js">git commit <span class="token operator">-</span>m <span class="token string">"first commit"</span>
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>At the top of your GitHub repository’s Quick Setup page, click the clipboard icon to copy the remote repository URL.</p>
-<p>In Terminal, add the URL for the remote repository where your local repository will be pushed.</p>
-<pre class="line-numbers language-js"><code class="language-js">git remote add origin Git_Repository_URL
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>Verify your URL</p>
-<pre class="line-numbers language-js"><code class="language-js">git remote <span class="token operator">-</span>v
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>The build log is complaining that gatsby is not installed, so make sure to add gatsby to your package.json as a dependency.</p>
-<p>Simplest way is to run:</p>
-<pre class="line-numbers language-js"><code class="language-js">npm install gatsby <span class="token operator">--</span>save
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>Locally and then add the updated package.json to your repository. That way netlify will know to install gatsby before running your build command.</p>
-<p>Now, it’s time to push the changes in your local repository to GitHub.</p>
-<pre class="line-numbers language-js"><code class="language-js">git push <span class="token operator">-</span>u origin master
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<h1 id="Neu-gap-loi-su-dung-dong-lenh-nay-de-thay-the"><a href="#Neu-gap-loi-su-dung-dong-lenh-nay-de-thay-the" class="headerlink" title="Nếu gặp lỗi, sử dụng dòng lệnh này để thay thế"></a>Nếu gặp lỗi, sử dụng dòng lệnh này để thay thế</h1><p>Cần phải Commit trước khi Đẩy lên GitHub</p>
-<p><code>mkdir repo &amp;&amp; cd repo</code><br><code>git remote add origin /path/to/origin.git</code><br><code>git add .</code></p>
-<p>Ví dụ khi chưa Commit!</p>
-<p><code>git push -u origin master</code></p>
-<p>Lỗi kiểu này</p>
-<pre class="line-numbers language-js"><code class="language-js">error<span class="token punctuation">:</span> src refspec master does not match any<span class="token punctuation">.</span>
-<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>Cuối cùng:</p>
-<p><code>git commit -m &quot;initial commit&quot;</code><br><code>git push origin master</code></p>
-<p>Success!</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Blazing fast React.js static site generator. Tương đối phức tạp hơn so với &lt;strong&gt;Hexo
-    
-    </summary>
-    
-      <category term="TMB" scheme="http://dendua.com/categories/TMB/"/>
-    
-    
-      <category term="Gatsby" scheme="http://dendua.com/tags/Gatsby/"/>
-    
-      <category term="GitHub" scheme="http://dendua.com/tags/GitHub/"/>
-    
-      <category term="Netlify" scheme="http://dendua.com/tags/Netlify/"/>
     
   </entry>
   
