@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dendua.com/"/>
-  <updated>2017-08-17T08:42:04.453Z</updated>
+  <updated>2017-08-18T07:48:57.894Z</updated>
   <id>http://dendua.com/</id>
   
   <author>
@@ -14,6 +14,97 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Gas vs Củi</title>
+    <link href="http://dendua.com/2017/08/18/gas-vs-cui/"/>
+    <id>http://dendua.com/2017/08/18/gas-vs-cui/</id>
+    <published>2017-08-18T07:44:19.210Z</published>
+    <updated>2017-08-18T07:48:57.894Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Hi các bạn, đặc biệt là các bạn có cùng hoàn cảnh giống mình đang sống ở nông thôn.</p>
+<p>Hiện tại mình đang tìm hiểu các tài liệu liên quan để so sánh giữa Gas và củi. Căn cứ theo bài viết trước đây <a href="/2017/08/18/mot-so-dac-tinh-co-ban-gas/"><strong>Một số đặc tính cơ bản của Gas</strong></a>. Thì có một dữ liệu đáng quan tâm:</p>
+<p>xin được trích dẫn lại như sau:</p>
+<blockquote>
+<p>Nhiệt lượng 1 kg LPG tương đương :</p>
+<ul>
+<li>Điện (KW.h) 14</li>
+<li>Dầu hỏa (Lít) 1.5 -2</li>
+<li>Than (kg) 3 - 4</li>
+<li>Củi gỗ (kg) 7 - 9 </li>
+</ul>
+</blockquote>
+<p>Căn cứ theo dữ liệu bài viết đó và các thông số mình đã trích dẫn, giả dụ mình cho một con số thống nhất là <strong>1kg Gas = 9 kg củi</strong>.</p>
+<p>Như vậy ta quy ra ngay 1 bình gas 12kg trị giá 300.000 đồng (thấp nhất) bằng 12kg* x 9 kg củi / chia cho 1 kg Gas ra khối lượng củi bằng 108 kg củi.</p>
+<p>Vậy cứ 1kg Gas bằng 9kg củi, ta suy ra bình gas sử dụng trong một tháng bằng khối lượng củi bằng 108kg ở nông thôn.</p>
+<p>Như vậy mỗi tháng để tiết kiệm được 300.000 tiền gas, người dân nông thôn phải có sẵn 108kg củi khô mới hoàn thành chỉ tiêu.</p>
+<h2 id="Dieu-kien-thuc-te"><a href="#Dieu-kien-thuc-te" class="headerlink" title="Điều kiện thực tế"></a>Điều kiện thực tế</h2><p>Trên thực tế, gia đình mình sống ở nông thôn, Mỗi ngày bỏ ra 20 phút lượm củi khô ngay tại vườn cây cao su thì có thể đảm bảo mỗi ngày 20 phút đó kiếm được tối thiểu là: 20kg củi khô.<br>Suy ra một tháng 30 ngày nếu chăm chỉ và liên tục có thể kiếm được 600kg củi khô. Bằng gần 6 bình gas thông thường 12kg cho gia đình nhỏ dùng trong 1 tháng.</p>
+<h2 id="Nguon-trich-dan-thong-tin"><a href="#Nguon-trich-dan-thong-tin" class="headerlink" title="Nguồn trích dẫn thông tin"></a>Nguồn trích dẫn thông tin</h2><p><a href="http://www.baomoi.com/gia-gas-bat-ngo-tang-manh-tu-ngay-1-8/c/22895867.epi" target="_blank" rel="external">http://www.baomoi.com/gia-gas-bat-ngo-tang-manh-tu-ngay-1-8/c/22895867.epi</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Hi các bạn, đặc biệt là các bạn có cùng hoàn cảnh giống mình đang sống ở nông thôn.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+    
+    
+      <category term="Cui" scheme="http://dendua.com/tags/Cui/"/>
+    
+      <category term="Gas" scheme="http://dendua.com/tags/Gas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Một số đặc tính cơ bản của Gas</title>
+    <link href="http://dendua.com/2017/08/18/mot-so-dac-tinh-co-ban-gas/"/>
+    <id>http://dendua.com/2017/08/18/mot-so-dac-tinh-co-ban-gas/</id>
+    <published>2017-08-18T07:43:01.734Z</published>
+    <updated>2017-08-18T07:45:18.527Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Do gia đình sống ở nông thôn, nên mình cần tìm hiểu về củi và gas để lọc ra dữ liệu cần để so sánh giữa Gas và củi.</p>
+<p>Dưới đây là một số thông tin dữ liệu về Gas mà mình thu thập được.</p>
+<h2 id="MOT-SO-DAC-TINH-CO-BAN-CUA-GAS"><a href="#MOT-SO-DAC-TINH-CO-BAN-CUA-GAS" class="headerlink" title="MỘT SỐ ĐẶC TÍNH CƠ BẢN CỦA GAS"></a>MỘT SỐ ĐẶC TÍNH CƠ BẢN CỦA GAS</h2><ol>
+<li>Gas hay còn gọi LPG ( Liquified Petroleum Gas ) là khí đốt hoá lỏng có nguồn gốc từ dầu mỏ </li>
+<li>Thành phần chính là hỗn hợp của khí : PROPANE (C3H8 ) và BUTANE (C4H10 ) </li>
+<li>Không màu , không mùi , không độc hại ( nhưng được pha thêm chất Etylmecaptan có mùi đặc trưng để dễ phát hiện khi có rò xì gas ) </li>
+<li>Nhiệt độ sôi của gas thấp ( từ - 45 đến - 2oC ) nên để gas lỏng tiếp xúc trực tiếp với da sẽ bị phỏng lạnh </li>
+<li>Trong điều kiện nhiệt độ môi trường gas bốc hơi rất mãnh liệt , khi gas chuyển từ trạng thái lỏng sang hơi thì thể tích tăng đến 250 lần </li>
+<li>Áp suất của gas phụ thuộc vào nhiệt độ môi trường , khi nhiệt độ tăng thì áp suất gas sẽ tăng và ngược lại . Trong điều kiện nhiệt độ khu vực phía nam thì áp suất gas dao động trong khoảng từ 4 - 7 kg/cm2 </li>
+<li>Tỉ trọng của gas lỏng nhẹ hơn nước , khối lượng riêng trong khoảng DL = 0.51 - 0.575 Kg/Lít </li>
+<li>Tỉ trọng gas hơi nặng hơn không khí DH = 1.51 - 2 lần , nên gas bị rò xì sẽ tích nơi trũng , thấp hơn mặt bằng xung quanh ( cống , rãnh )<br>Nhiệt lượng 1 kg LPG tương đương :</li>
+</ol>
+<ul>
+<li>Điện (KW.h) 14</li>
+<li>Dầu hỏa (Lít) 1.5 -2</li>
+<li>Than (kg) 3 - 4</li>
+<li>Củi gỗ (kg) 7 - 9<br>Nhiệt lượng :</li>
+<li>KJ/Kg 50000</li>
+<li>Kcal/m3 (150C , 760 mm Hg) 26000</li>
+<li>Kcal/kg 11.300 - 12.000<br>Nhiệt trị của một số nguyên liệu đốt thông dụng<br>Loại nhiên liệu Nhiệt trị kJ/kg (trong ngoặc = Kcal/kg)<br>Than ít bitum loại A 24490 – 26823 (6.400)<br>Than ít bitum loại B 22158 – 24490 (5850)<br>Than ít bitum loại C 19358 – 22158 (5293)<br>Than non loại A 14693 - 19358 (4.624)<br>Than non loại B 14693 (3.510)<br>Dầu nặng (dầu FO) 41131 - 43138 ( 10.030)<br>Dầu Diesel (dầu DO) 43138 (10.030)<br>Khí hóa lỏng LPG 39927 - 54900 (13.115)<br>Khí thiên nhiên 55979 ( hay 37118 kJ/m3 ở 1atm và 20oC) (13.372)<br>Củi ép trấu 11720 (2.800)<br>Củi ép mùn cưa 17580 (4.200)<br>Một số chuyển đổi năng lượng quan trọng<br>1 cal = 4,186 J 1 Kwh = 860 kcal<br>1 BTU = 0,252 kcal = 252 cal 1 Kwh = 3.600 kJ<br>1 TOE = 1000 kg dầu FO 1 kg dầu FO = 11,63 Kwh<br>1 kg dầu FO = 10.000 kcal 1 kg than cám 5 = 5.000 kcal<br>IV. BẢNG SO SÁNH THÀNH PHẦN VÀ NHIỆT TRỊ CỦA GAS PETROL VÀ GAS KHÍ HÓA:<br>Nhiên liệu Đơn vị Nhiệt trị (Kcal) Thành phần đặc trưng<br>CH4 C2H6 C3H8 C4H10<br>LPG Kg 11.823 50 50<br>CNG m3 10.080 84 12<br>GAS KHÍ HÓA m3 15.630 13 3 50 13<h2 id="GIOI-THIEU-SAN-PHAM-KHI-NEN-THIEN-NHIEN"><a href="#GIOI-THIEU-SAN-PHAM-KHI-NEN-THIEN-NHIEN" class="headerlink" title="GIỚI THIỆU SẢN PHẨM KHÍ NÉN THIÊN NHIÊN"></a>GIỚI THIỆU SẢN PHẨM KHÍ NÉN THIÊN NHIÊN</h2>(COMPRESSED NATURAL GAS - CNG)<br>• CNG là khí thiên nhiên nén, thành phần chủ yếu là CH4 - metane (chiếm 85%- 95%) được lấy từ những mỏ khí thiên nhiên, mỏ dầu (khí đồng hành) hoặc khí nhà máy (thu được trong quá trình sản xuất của các nhà máy lọc dầu), qua xử lý và nén ở áp suất cao (200 đến 250 bar) để tồn trữ vào bồn chuyên dụng và vận chuyển tới các hộ tiêu thụ là các nhà máy có sử dụng nhiệt năng, các khu chung cư….. Do thành phần đơn giản dễ xử lý để loại bỏ các hợp chất độc hại như SOx, Nox, CO2, không có benzene và hydrocarbon thơm kèm theo, nên khi đốt nhiên liệu này không giải phóng nhiều khí độc như SO2, NO2, CO…, và hầu như không phát sinh bụi. Vì vậy, sử dụng CNG thay thế các nhiên liệu truyền thống như than, dầu sẽ bảo vệ môi trường và giảm chi phí.<br>.<h2 id="Bang-quy-doi"><a href="#Bang-quy-doi" class="headerlink" title="Bảng quy đổi"></a>Bảng quy đổi</h2>TÍNH TOÁN QUY ĐỔI GIỮA CNG VỚI CÁC NHIÊN LIỆU KHÁC<br>BẢNG NHIỆT TRỊ CỦA CÁC LOẠI NHIÊN LIỆU<br>Nhiên liệu Đơn vị KCal BTU mmBTU<br>LPG Kg 11,823 46,917 0.046917<br>DO Kg 10,835 42,997 0.042997<br>FO Kg 9,800 38,890 0.038890<br>CNG Sm3 10,080 40,001 0.040001<br>BẢNG QUI ĐỔI GIỮA CÁC NHIÊN LIỆU<br>Nhiên liệu cơ sở ĐVT Nhiên liệu qui đổi<br>CNG Sm3 LPG (kg) DO (kg) FO (kg)<br>0.85258 0.93032 1.02857<br>LPG Kg CNG(Sm3) DO (kg) FO (kg)<br>1.17292 1.09119 1.20643<br>DO Kg CNG(Sm3) LPG(kg) FO (kg)<br>1.07490 0.91643 1.07490<br>FO Kg CNG(Sm3) LPG(kg) DO (kg)<br>0.97222 0.82889 0.90448<br>Ghi chú:</li>
+</ul>
+<ol>
+<li>BTU (British Therm Unit): Đơn vị nhiệt trị của Anh quốc</li>
+<li>Sm3 (Standard cubic metre): 1 m3 CNG tại điều kiện tiêu chuẩn (nhiệt độ 15oC, áp suất 1 at)</li>
+<li>mmBTU: Một triệu BTU</li>
+<li>1kcal = 3.968321 BTU</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Do gia đình sống ở nông thôn, nên mình cần tìm hiểu về củi và gas để lọc ra dữ liệu cần
+    
+    </summary>
+    
+      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+    
+    
+      <category term="Gas" scheme="http://dendua.com/tags/Gas/"/>
+    
+  </entry>
   
   <entry>
     <title>Lists of Films Samurai by Bakadono</title>
@@ -3099,13 +3190,13 @@
       <category term="TMB" scheme="http://dendua.com/categories/TMB/"/>
     
     
-      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
-    
       <category term="Gatsby" scheme="http://dendua.com/tags/Gatsby/"/>
     
       <category term="GitHub" scheme="http://dendua.com/tags/GitHub/"/>
     
       <category term="Netlify" scheme="http://dendua.com/tags/Netlify/"/>
+    
+      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
     
       <category term="1And1" scheme="http://dendua.com/tags/1And1/"/>
     
@@ -3313,188 +3404,6 @@
     <summary type="html">
     
       &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Bài viết sau sẽ hướng dẫn cụ thể cho bạn cách trồng tỏi từ khâu chọn giống đến khâu bảo
-    
-    </summary>
-    
-      <category term="Agriculture" scheme="http://dendua.com/categories/Agriculture/"/>
-    
-    
-      <category term="Plant" scheme="http://dendua.com/tags/Plant/"/>
-    
-      <category term="Rau" scheme="http://dendua.com/tags/Rau/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Trồng hành lá tại nhà</title>
-    <link href="http://dendua.com/2017/07/01/trong-hanh-la-tai-nha/"/>
-    <id>http://dendua.com/2017/07/01/trong-hanh-la-tai-nha/</id>
-    <published>2017-07-01T08:59:43.981Z</published>
-    <updated>2017-07-01T09:00:19.345Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Hành lá với vị cay hăng nhè nhẹ giúp chị em biến tấu cho món ăn gia đình thêm ngon. Vậy tại sao không thử trồng một chậu hành lá nho nhỏ tại nhà để đảm bảo sức khỏe người dùng?</p>
-<p>Chỉ mất khoảng một tuần trồng hành từ rễ cây có sẵn và không tốn nhiều công chăm sóc. Có nhiều cách trồng hành lá khác nhau và bạn có thể chọn lựa phương pháp phù hợp với điều kiện của gia đình.</p>
-<p><img src="https://c1.staticflickr.com/5/4283/35475604842_25d3c80034_o.jpg" alt="hành lá" title="hành lá"></p>
-<h1 id="1-Trong-hanh-la-trong-chau-dat"><a href="#1-Trong-hanh-la-trong-chau-dat" class="headerlink" title="1. Trồng hành lá trong chậu đất"></a>1. Trồng hành lá trong chậu đất</h1><p>Hành lá, hay còn gọi là hành hoa, là một trong số ít những loại cây có thể trồng tiếp cây mới từ phần rễ bỏ đi. Hành lá có thể trồng quang năm, trong đó mùa nắng cho nắng suất cao hơn mùa mưa.</p>
-<p>Chuẩn bị:</p>
-<p>– Đất: đất nhiều mùn, thoát nước tốt<br>– Phân hữu cơ trùn quế<br>– Hành lá<br>– Chậu trồng có lỗ thoát nước.</p>
-<p>Thực hiện:</p>
-<p>– Cắt phần trên lá xanh của hành để nấu ăn như bình thường và giữ lại phần gốc màu trắng nguyên vẹn.</p>
-<p><img src="https://c1.staticflickr.com/5/4287/35644015775_300051dd79_o.jpg" alt="Cắt phần trên lá xanh của hành để nấu ăn" title="Cắt phần trên lá xanh của hành để nấu ăn"></p>
-<p>– Trồng toàn bộ phần rễ hành vào trong chậu sao cho thân hành để lộ 2-3cm trên mặt đất.</p>
-<p>– Hàng ngày tưới nước đủ ẩm cho cây và làm cỏ kịp thời để không ăn hết chất dinh dưỡng của hành.</p>
-<p>– Sau 30 – 40 ngày, cắt lá ăn dần và tiếp tục tưới nước, bón phân cho chậu cây.</p>
-<p><img src="https://c1.staticflickr.com/5/4106/35475604482_396742669a_o.jpg" alt="Sau 30 – 40 ngày" title="Sau 30 – 40 ngày"></p>
-<h1 id="2-Trong-hanh-la-thuy-canh"><a href="#2-Trong-hanh-la-thuy-canh" class="headerlink" title="2. Trồng hành lá thủy canh"></a>2. Trồng hành lá thủy canh</h1><p><img src="https://c1.staticflickr.com/5/4239/35644015525_6222bb2b3f_o.jpg" alt="hành lá thủy canh" title="hành lá thủy canh"></p>
-<p>Chuẩn bị:</p>
-<p>Trồng hành lá thủy canh tại nhà rất đơn giản khi không cần đất, cũng chẳng cần phân bón.</p>
-<p>– Hành lá.</p>
-<p>– Dao</p>
-<p>– Cốc thủy tinh</p>
-<p>Cách trồng:</p>
-<p>– Chọn cây hành lá khỏe với thân xanh, mập mạp và gốc trắng dài từ 2-7cm</p>
-<p>– Cắt phần trên lá xanh của hành để nấu ăn như bình thường và giữ lại phần gốc màu trắng nguyên vẹn.</p>
-<p><img src="https://c1.staticflickr.com/5/4061/35475604102_49521b6edc_o.jpg" alt="Cách trồng hành lá thủy canh" title="Cách trồng hành lá thủy canh"></p>
-<p>– Cho phần gốc hành vào trong nước. Chú ý để ngập toàn bộ phần rễ hành vào trong nước để không bị thối.</p>
-<p>– Đặt bình ở nơi có ánh sáng vừa đủ nhưng không trực tiếp dưới nắng.</p>
-<p><img src="https://c1.staticflickr.com/5/4126/35644015235_e662258f26_o.jpg" alt="Cho gốc hành vào bình" title="Cho gốc hành vào bình"></p>
-<p>– Thay nước hai ngày một lần.</p>
-<p>– Sau khoảng 7 ngày, hành lá sẽ bắt đầu ra chồi, chuẩn bị mọc thành ngọn xanh.</p>
-<p><img src="https://c1.staticflickr.com/5/4285/35644015135_82e9766b4b_b.jpg" alt="Sau 7 ngày" title="Sau 7 ngày"></p>
-<p>– Sau 14 ngày, thân hành xanh mới sẽ mọc lên cao vút, sẵn sàng cho thu hoạch.</p>
-<p>– Cắt phần lá phía trên và lại tiếp tục nuôi phần rễ phía dưới để luôn có hành ngon.</p>
-<p>– Sau ba lần cắt lá nên bổ sung vào nước thêm một chút phân hữu cơ hòa tan.</p>
-<p><img src="https://c1.staticflickr.com/5/4124/35475603832_71a06d7846_b.jpg" alt="Sau 8 ngày thủy canh" title="Sau 8 ngày thủy canh"></p>
-<h1 id="3-Trong-thap-hanh-la-trong-chai-nhua"><a href="#3-Trong-thap-hanh-la-trong-chai-nhua" class="headerlink" title="3. Trồng tháp hành lá trong chai nhựa"></a>3. Trồng tháp hành lá trong chai nhựa</h1><p><img src="https://c1.staticflickr.com/5/4278/35644014705_ccb09ffbcf_o.jpg" alt="Trồng tháp hành lá trong chai nhựa" title="Trồng tháp hành lá trong chai nhựa"></p>
-<p>Trồng hành lá thủy canh rất hay nhưng có nhược điểm là tốn công thay nước và năng suất không cao. Phương pháp trồng hành lá trong chai tại nhà dành cho những gia đình muốn có nhiều rau ăn mà ít không gian trống.</p>
-<p>Bạn phải trồng củ hành trong một chai nhựa 5 lít đầy đất và sau đó thu hoạch lá để sử dụng. Mỗi khi bạn ngắt lá xong, nhánh mới sẽ lại mọc lên, cung cấp liên tục hành lá cho gia đình.</p>
-<p>Chuẩn bị:</p>
-<p>– Chai nhựa 5 lít</p>
-<p>– Khay nhựa</p>
-<p>– Bút dạ</p>
-<p>– Kéo</p>
-<p>– Dao đầu nhọn</p>
-<p>– Củ hành</p>
-<p>– Đất + phân trùn quế</p>
-<p>Cách trồng:</p>
-<p>– Cắt bỏ phần thân trên của chai từ cổ trở lên.</p>
-<p>– Dùng bút dạ đánh dấu các lỗ tròn sao cho đường kính bé hơn kích thước củ hành gia đình định trồng xung quanh trên chai. Sau đó, dùng kéo hoặc dao nhọn đầu để đục các lỗ.</p>
-<p><img src="https://c1.staticflickr.com/5/4125/35475603392_fe2ac43a42_b.jpg" alt="bỏ phần thân trên của chai từ cổ trở lên" title="bỏ phần thân trên của chai từ cổ trở lên"></p>
-<p>– Đục thêm nhiều lỗ nhỏ dưới đáy chai để thoát nước. Hạn chế để hành tây bị thối rễ vì sẽ có mùi cực kì khó chịu cũng như làm hỏng cả bình trồng hành lá.</p>
-<p>– Chuẩn bị một khay nhựa nhỏ để dưới đáy chai. Khay nhựa sẽ giữ nước tưới và đất không chảy ra nhà.</p>
-<p>– Cho lần lượt một lớp đất rồi lại một lớp hành từ dưới đáy cho đến miệng chai. Sắp xếp sao đỉnh của các củ hành vừa khít với lỗ đã đục.</p>
-<p><img src="https://c1.staticflickr.com/5/4239/35475603402_6a41db8050_o.jpg" alt="Cho nguyên củ hành vào" title="Cho nguyên củ hành vào"></p>
-<p>– Tưới nước từ trên xuống cho đất ẩm hàng ngày.</p>
-<p>– Đặt chai hành lá cạnh bậu cửa sổ nhiều nắng.</p>
-<p><img src="https://c1.staticflickr.com/5/4022/35513671201_f62ac41ed7_o.jpg" alt="Đặt chai hành lá cạnh bậu cửa sổ nhiều nắng" title="Đặt chai hành lá cạnh bậu cửa sổ nhiều nắng"></p>
-<p>Qua thời gian, những củ hành có thể giảm chất lượng nhưng ít nhất bạn cũng sẽ luôn có hành ăn trong ít nhất vài tháng. Ngay sau khi lứa hành đầu tiên trồng được 1 tháng, bạn có thể bắt đầu trồng tiếp lứa thứ 2.</p>
-<p>Một vài chậu hành lá tự trồng tại nhà:</p>
-<p><img src="https://c1.staticflickr.com/5/4208/35475602902_21a1fdb4d1_o.jpg" alt="Một vài chậu hành lá" title="Một vài chậu hành lá"></p>
-<p><img src="https://c1.staticflickr.com/5/4023/35513670621_6ba349fdcf_o.jpg" alt="Một vài chậu hành lá tự trồng tại nhà" title="Một vài chậu hành lá tự trồng tại nhà"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Hành lá với vị cay hăng nhè nhẹ giúp chị em biến tấu cho món ăn gia đình thêm ngon. Vậy
-    
-    </summary>
-    
-      <category term="Agriculture" scheme="http://dendua.com/categories/Agriculture/"/>
-    
-    
-      <category term="Plant" scheme="http://dendua.com/tags/Plant/"/>
-    
-      <category term="Rau" scheme="http://dendua.com/tags/Rau/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Trồng rau thơm Trong nhà. Lúc cần là có</title>
-    <link href="http://dendua.com/2017/07/01/trong-rau-thom-trong-nha/"/>
-    <id>http://dendua.com/2017/07/01/trong-rau-thom-trong-nha/</id>
-    <published>2017-07-01T08:58:21.567Z</published>
-    <updated>2017-07-01T08:59:35.529Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Bạn đã bao giờ trồng rau thơm trên bàn bếp chưa? Hãy thử ý tưởng này ngay hôm nay để có rau tươi dậy mùi căn bếp và nếu cần dùng thì có sẵn nhé!</p>
-<h1 id="Chuan-bi"><a href="#Chuan-bi" class="headerlink" title="Chuẩn bị"></a>Chuẩn bị</h1><ul>
-<li><p>6 hộp đựng thức ăn rỗng (kích thước khác nhau)</p>
-</li>
-<li><p>2 cây húng quế</p>
-</li>
-<li><p>1 cây hương thảo</p>
-</li>
-<li><p>1 cây húng tây</p>
-</li>
-<li><p>1 cụm cây bạc hà</p>
-</li>
-<li><p>1 cây mùi tàu</p>
-</li>
-<li><p>1 cây ớt</p>
-</li>
-<li><p>1 cây chanh</p>
-</li>
-<li><p>1 cây tắc (cây quất)</p>
-</li>
-<li><p>Dây băng</p>
-</li>
-<li><p>Nhãn dán + bút</p>
-</li>
-<li><p>Kéo nhỏ</p>
-</li>
-<li><p>Dây buộc</p>
-</li>
-<li><p>Khoan nhỏ</p>
-</li>
-<li><p>Cồn</p>
-</li>
-<li><p>Đá cuội</p>
-</li>
-<li><p>Bình tưới</p>
-</li>
-<li><p>Khay đựng hoặc đĩa to</p>
-</li>
-</ul>
-<p><strong>Bạn có thể tùy chọn các loại rau thơm phù hợp với khẩu vị và điều kiện thời tiết ở nơi bạn đang sinh sống.</strong></p>
-<h1 id="Thuc-hien"><a href="#Thuc-hien" class="headerlink" title="Thực hiện"></a>Thực hiện</h1><h2 id="Buoc-1-Lam-sach-hop-trong-cay"><a href="#Buoc-1-Lam-sach-hop-trong-cay" class="headerlink" title="Bước 1: Làm sạch hộp trồng cây"></a>Bước 1: Làm sạch hộp trồng cây</h2><ul>
-<li>Rửa sạch 6 hộp đựng thức ăn đã dùng sạch</li>
-</ul>
-<p><img src="https://c1.staticflickr.com/5/4073/35604331256_14cf5d0a3f_o.jpg" alt="Làm sạch hộp trồng cây" title="Làm sạch hộp trồng cây"> </p>
-<ul>
-<li><p>Sau đó, tráng lại các hộp với một ít cồn để làm sạch chúng hoàn toàn.</p>
-</li>
-<li><p>Chờ hộp khô và dùng khoan để khoan các lỗ nhỏ ở đáy hộp làm lỗ thoát nước cho cây. </p>
-</li>
-</ul>
-<p><img src="https://c1.staticflickr.com/5/4260/35643902325_d7aa29807a_o.jpg" alt="khoan các lỗ nhỏ ở đáy hộp" title="khoan các lỗ nhỏ ở đáy hộp"> </p>
-<h2 id="Buoc-2-Lam-khay-dung-cac-hop-rau-thom"><a href="#Buoc-2-Lam-khay-dung-cac-hop-rau-thom" class="headerlink" title="Bước 2: Làm khay đựng các hộp rau thơm"></a>Bước 2: Làm khay đựng các hộp rau thơm</h2><ul>
-<li>Rửa sạch đá cuội và trải đều chúng vào khay hoặc đĩa to sao cho bề mặt đá phẳng để đặt các hộp rau thơm không bị nghiêng đổ</li>
-</ul>
-<p><img src="https://c1.staticflickr.com/5/4062/35604330946_807fef8db5_o.jpg" alt="Rửa sạch đá cuội và trải đều chúng vào khay" title="Rửa sạch đá cuội và trải đều chúng vào khay"> </p>
-<p><img src="https://c1.staticflickr.com/5/4216/35604330836_561df3eceb_o.jpg" alt="sao cho bề mặt đá phẳng để đặt các hộp rau thơm không bị nghiêng đổ" title="sao cho bề mặt đá phẳng để đặt các hộp rau thơm không bị nghiêng đổ"> </p>
-<h2 id="Buoc-3-Trong-rau-thom-vao-trong-hop"><a href="#Buoc-3-Trong-rau-thom-vao-trong-hop" class="headerlink" title="Bước 3: Trồng rau thơm vào trong hộp"></a>Bước 3: Trồng rau thơm vào trong hộp</h2><ul>
-<li>Trước tiên, bạn trải một ít đá cuội xuống dưới đáy hộp</li>
-</ul>
-<p><img src="https://c1.staticflickr.com/5/4152/35256991020_e1b6aabf3c_o.jpg" alt="trải một ít đá cuội xuống dưới đáy hộp" title="trải một ít đá cuội xuống dưới đáy hộp"> </p>
-<ul>
-<li>Tiếp đó, đổ thêm ít đất vào</li>
-</ul>
-<p><img src="https://c1.staticflickr.com/5/4085/35604330586_82b764621d_o.jpg" alt="đổ thêm ít đất vào" title="đổ thêm ít đất vào"> </p>
-<ul>
-<li>Cuối cùng, đặt từng cây rau thơm vào trong hộp thích hợp tùy theo kích thước tương ứng của hộp và cây (hộp to thì trồng cây to)</li>
-</ul>
-<p><img src="https://c1.staticflickr.com/5/4283/35475489542_3288df40da_o.jpg" alt="đặt từng cây rau thơm vào trong hộp" title="đặt từng cây rau thơm vào trong hộp"> </p>
-<h2 id="Buoc-4-Tuoi-nuoc-cho-cay"><a href="#Buoc-4-Tuoi-nuoc-cho-cay" class="headerlink" title="Bước 4: Tưới nước cho cây"></a>Bước 4: Tưới nước cho cây</h2><ul>
-<li>Dùng bình xịt tưới nước cho cây, chú ý tưới cả lá và gốc cây</li>
-</ul>
-<p><img src="https://c1.staticflickr.com/5/4122/35604330056_b409cf5073_o.jpg" alt="xịt tưới nước cho cây" title="xịt tưới nước cho cây"> </p>
-<h2 id="Buoc-5-Lay-nhan-dan-ghi-ten-cac-loai-rau-thom-va-gan-o-moi-cay"><a href="#Buoc-5-Lay-nhan-dan-ghi-ten-cac-loai-rau-thom-va-gan-o-moi-cay" class="headerlink" title="Bước 5: Lấy nhãn dán ghi tên các loại rau thơm và gắn ở mỗi cây"></a>Bước 5: Lấy nhãn dán ghi tên các loại rau thơm và gắn ở mỗi cây</h2><p><img src="https://c1.staticflickr.com/5/4138/35256990570_cdc99b9866_o.jpg" alt="nhãn dán ghi tên các loại rau thơm" title="nhãn dán ghi tên các loại rau thơm"> </p>
-<h2 id="Buoc-6-Xep-cac-cay-vao-khay-va-lay-day-bang-buoc-that-no"><a href="#Buoc-6-Xep-cac-cay-vao-khay-va-lay-day-bang-buoc-that-no" class="headerlink" title="Bước 6: Xếp các cây vào khay và lấy dây băng buộc thắt nơ"></a>Bước 6: Xếp các cây vào khay và lấy dây băng buộc thắt nơ</h2><p>Có thể sử dụng thêm một hộp nhỏ nữa đựng kéo sạch để cắt rau thơm mỗi khi dùng rau thơm. Chú ý dùng bình tưới nước sạch và nước sạch để tưới nước cho rau.</p>
-<p><img src="https://c1.staticflickr.com/5/4256/35604329606_63f493ecaa_o.jpg" alt="Lấy nhãn dán ghi tên các loại rau thơm và gắn ở mỗi cây" title="Lấy nhãn dán ghi tên các loại rau thơm và gắn ở mỗi cây"> </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Bạn đã bao giờ trồng rau thơm trên bàn bếp chưa? Hãy thử ý tưởng này ngay hôm nay để có
     
     </summary>
     
