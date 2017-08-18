@@ -3297,13 +3297,13 @@
       <category term="TMB" scheme="http://dendua.com/categories/TMB/"/>
     
     
+      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
+    
       <category term="Gatsby" scheme="http://dendua.com/tags/Gatsby/"/>
     
       <category term="GitHub" scheme="http://dendua.com/tags/GitHub/"/>
     
       <category term="Netlify" scheme="http://dendua.com/tags/Netlify/"/>
-    
-      <category term="Hexo" scheme="http://dendua.com/tags/Hexo/"/>
     
       <category term="1And1" scheme="http://dendua.com/tags/1And1/"/>
     
@@ -3517,9 +3517,9 @@
       <category term="Agriculture" scheme="http://dendua.com/categories/Agriculture/"/>
     
     
-      <category term="Plant" scheme="http://dendua.com/tags/Plant/"/>
-    
       <category term="Rau" scheme="http://dendua.com/tags/Rau/"/>
+    
+      <category term="Plant" scheme="http://dendua.com/tags/Plant/"/>
     
   </entry>
   
