@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dendua.com/"/>
-  <updated>2017-08-29T19:58:28.677Z</updated>
+  <updated>2017-08-30T12:16:57.499Z</updated>
   <id>http://dendua.com/</id>
   
   <author>
@@ -14,6 +14,148 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>​Free DNS Servers (Valid August 2017)</title>
+    <link href="http://dendua.com/2017/08/30/free-dns-servers-2017/"/>
+    <id>http://dendua.com/2017/08/30/free-dns-servers-2017/</id>
+    <published>2017-08-30T12:15:50.439Z</published>
+    <updated>2017-08-30T12:16:57.499Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Below are free DNS servers you can use instead of the ones assigned, the best and most reliable of which, from the likes of Google and OpenDNS, you can find below:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Provider</th>
+<th style="text-align:right">Primary DNS Server</th>
+<th style="text-align:center">Secondary DNS Server</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Level3 <sub>1</sub></td>
+<td style="text-align:right">209.244.0.3</td>
+<td style="text-align:center">209.244.0.4</td>
+</tr>
+<tr>
+<td style="text-align:left">Verisign <sub>2</sub></td>
+<td style="text-align:right">64.6.64.6</td>
+<td style="text-align:center">64.6.65.6</td>
+</tr>
+<tr>
+<td style="text-align:left">Google <sub>3</sub></td>
+<td style="text-align:right">8.8.8.8</td>
+<td style="text-align:center">8.8.4.4</td>
+</tr>
+<tr>
+<td style="text-align:left">DNS.WATCH <sub>4</sub></td>
+<td style="text-align:right">84.200.69.80</td>
+<td style="text-align:center">84.200.70.40</td>
+</tr>
+<tr>
+<td style="text-align:left">Comodo Secure DNS</td>
+<td style="text-align:right">8.26.56.26</td>
+<td style="text-align:center">8.20.247.20</td>
+</tr>
+<tr>
+<td style="text-align:left">OpenDNS Home <sub>5</sub></td>
+<td style="text-align:right">208.67.222.222</td>
+<td style="text-align:center">208.67.220.220</td>
+</tr>
+<tr>
+<td style="text-align:left">Norton ConnectSafe <sub>6</sub></td>
+<td style="text-align:right">199.85.126.10</td>
+<td style="text-align:center">199.85.127.10</td>
+</tr>
+<tr>
+<td style="text-align:left">GreenTeamDNS <sub>7</sub></td>
+<td style="text-align:right">81.218.119.11</td>
+<td style="text-align:center">209.88.198.133</td>
+</tr>
+<tr>
+<td style="text-align:left">SafeDNS <sub>8</sub></td>
+<td style="text-align:right">195.46.39.39</td>
+<td style="text-align:center">195.46.39.40</td>
+</tr>
+<tr>
+<td style="text-align:left">OpenNIC <sub>9</sub></td>
+<td style="text-align:right">192.95.54.3</td>
+<td style="text-align:center">192.95.54.1</td>
+</tr>
+<tr>
+<td style="text-align:left">SmartViper</td>
+<td style="text-align:right">208.76.50.50</td>
+<td style="text-align:center">208.76.51.51</td>
+</tr>
+<tr>
+<td style="text-align:left">Dyn</td>
+<td style="text-align:right">216.146.35.35</td>
+<td style="text-align:center">216.146.36.36</td>
+</tr>
+<tr>
+<td style="text-align:left">FreeDNS <sub>10</sub></td>
+<td style="text-align:right">37.235.1.174</td>
+<td style="text-align:center">37.235.1.177</td>
+</tr>
+<tr>
+<td style="text-align:left">Alternate DNS <sub>11</sub></td>
+<td style="text-align:right">198.101.242.72</td>
+<td style="text-align:center">23.253.163.53</td>
+</tr>
+<tr>
+<td style="text-align:left">Yandex.DNS <sub>12</sub></td>
+<td style="text-align:right">77.88.8.8</td>
+<td style="text-align:center">77.88.8.1</td>
+</tr>
+<tr>
+<td style="text-align:left">UncensoredDNS <sub>13</sub></td>
+<td style="text-align:right">91.239.100.100</td>
+<td style="text-align:center">89.233.43.71</td>
+</tr>
+<tr>
+<td style="text-align:left">Hurricane Electric <sub>14</sub></td>
+<td style="text-align:right">74.82.42.42</td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:left">puntCAT <sub>15</sub></td>
+<td style="text-align:right">109.69.8.51</td>
+</tr>
+</tbody>
+</table>
+<h2 id="Chu-thich"><a href="#Chu-thich" class="headerlink" title="Chú thích"></a>Chú thích</h2><p>Nguồn Resource <a href="https://www.lifewire.com/free-and-public-dns-servers-2626062" target="_blank" rel="external">https://www.lifewire.com/free-and-public-dns-servers-2626062</a><br>[1] The free DNS servers listed above as Level3 will automatically route to the nearest DNS server operated by Level3 Communications, the company that provides most of the ISPs in the US their access to the internet backbone. Alternatives include 4.2.2.1, 4.2.2.2, 4.2.2.3, 4.2.2.4, 4.2.2.5, and 4.2.2.6. These servers are often given as Verizon DNS servers but that is not technically the case. See discussion above.</p>
+<p>[2] Verisign says this about their free DNS servers: “We will not sell your public DNS data to third parties nor redirect your queries to serve you any ads.” Verisign offers IPv6 public DNS servers as well: 2620:74:1b::1:1 and 2620:74:1c::2:2.</p>
+<p>[3] Google also offers IPv6 public DNS servers: 2001:4860:4860::8888 and 2001:4860:4860::8844.</p>
+<p>[4] DNS.WATCH also has IPv6 DNS servers at 2001:1608:10:25::1c04:b12f and 2001:1608:10:25::9249:d69b. In an uncommon but much-appreciated move, DNS.WATCH publishes live statistics for both of their free DNS servers. Both servers are located in Germany which could impact performance if used from the US or other remote locations.</p>
+<p>[5] OpenDNS also offers DNS servers that block adult content, called OpenDNS FamilyShield. Those DNS servers are 208.67.222.123 and 208.67.220.123. A premium DNS offering is also available, called OpenDNS Home VIP.</p>
+<p>[6] The Norton ConnectSafe free DNS servers listed above block sites hosting malware, phishing schemes, and scams, and is called Policy 1. Use Policy 2 (199.85.126.20 and 199.85.127.20) to block those sites plus those with pornographic content. Use Policy 3 (199.85.126.30 and 199.85.127.30) to block all previously mentioned site categories plus those Norton deems “non-family friendly.” Be sure to check out the list of things blocked in Policy 3 - there are several controversial topics in there that you may find perfectly acceptable.</p>
+<p>[7] GreenTeamDNS “blocks tens of thousands of dangerous websites which include malware, botnets, adult related content, aggressive/ violent sites as well as advertisements and drug-related websites “ according to their FAQ page. Premium accounts have more control.</p>
+<p>[8] Register here with SafeDNS for content filtering options in several areas.</p>
+<p>[9] The DNS servers listed here for OpenNIC are just two of many in the US and across the globe. Instead of using the OpenNIC DNS servers listed above, see their complete list of public DNS servers here and use two that are close to you or, better yet, let them tell you that automatically here. OpenNIC also offers some IPv6 public DNS servers.</p>
+<p>[10] FreeDNS says that they “never log DNS queries.” Their free DNS servers are located in Austria.</p>
+<p>[11] Alternate DNS says that their DNS servers “block unwanted ads” and that they engage in “no query logging.” You can sign up for free from their signup page.</p>
+<p>[12] Yandex’s Basic free DNS servers, listed above, are also available in IPv6 at 2a02:6b8::feed:0ff and 2a02:6b8:0:1::feed:0ff. Two more free tiers of DNS are available as well. The first is Safe, at 77.88.8.88 and 77.88.8.2, or 2a02:6b8::feed:bad and 2a02:6b8:0:1::feed:bad, which blocks “infected sites, fraudulent sites, and bots.” The second is Family, at 77.88.8.7 and 77.88.8.3, or 2a02:6b8::feed:a11 and 2a02:6b8:0:1::feed:a11, which blocks everything that Safe does, plus “adult sites and adult advertising.”</p>
+<p>[13] UncensoredDNS (formerly censurfridns.dk) DNS servers are uncensored and operated by a privately funded individual. The 91.239.100.100 address is anycast from multiple locations while the 89.233.43.71 one is physically located in Copenhagen, Denmark. You can read more about them here. IPv6 versions of their two DNS servers are also available at 2001:67c:28a4:: and 2a01:3a0:53:53::, respectively.</p>
+<p>[14] Hurricane Electric also has an IPv6 public DNS server available: 2001:470:20::2.</p>
+<p>[15] puntCAT is physically located near Barcelona, Spain. The IPv6 version of their free DNS server is 2a00:1508:0:4::9.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Below are free DNS servers you can use instead of the ones assigned, the best and most 
+    
+    </summary>
+    
+      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+    
+    
+      <category term="Free" scheme="http://dendua.com/tags/Free/"/>
+    
+      <category term="DNS" scheme="http://dendua.com/tags/DNS/"/>
+    
+      <category term="Public" scheme="http://dendua.com/tags/Public/"/>
+    
+  </entry>
   
   <entry>
     <title>Danh sách Chi nhánh và trụ ATM Agribank ở Thị xã Tân Uyên tỉnh Bình Dương</title>
@@ -2869,117 +3011,6 @@
       <category term="Nippon" scheme="http://dendua.com/tags/Nippon/"/>
     
       <category term="Introduction" scheme="http://dendua.com/tags/Introduction/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tỏi ngâm giấm</title>
-    <link href="http://dendua.com/2017/07/09/toi-ngam-giam/"/>
-    <id>http://dendua.com/2017/07/09/toi-ngam-giam/</id>
-    <published>2017-07-09T12:21:49.353Z</published>
-    <updated>2017-07-09T12:22:44.507Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Ngày trước, mình hay đi ăn ở những quán ven đường. Nhất là hủ tíu khô, hủ tíu nước, hay đi ăn bò kho… Hầu hết các quán đều trang bị cho khách mỗi bàn một hũ tỏi ngâm dấm, khi ăn vừa giòn, vừa thơm, vừa hơi chua chua rất ngon.</p>
-<p>Vì nhớ hương vị, và cái cảm giác ấy. Thế nên mình bắt chước làm thành món gia vị để sử dụng tại nhà.</p>
-<h1 id="Chuan-bi"><a href="#Chuan-bi" class="headerlink" title="Chuẩn bị"></a>Chuẩn bị</h1><p>Chuẩn bị các nguyên liệu nấu, và chuẩn bị cách thức tiếp cận để tiết kiệm thời gian cũng như công sức.</p>
-<table>
-<thead>
-<tr>
-<th style="text-align:left">Nguyên liệu</th>
-<th style="text-align:right">Số lượng</th>
-<th style="text-align:center">Đơn vị tính</th>
-<th style="text-align:center">Hình ảnh nhận diện</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">Nước lạnh</td>
-<td style="text-align:right">Không hạn chế</td>
-<td style="text-align:center">ml</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4286/35759555336_016018e1dc_o.jpg" alt="Nước" title="Nước"></td>
-</tr>
-<tr>
-<td style="text-align:left">Nước đun sôi để nguội</td>
-<td style="text-align:right">Không hạn chế</td>
-<td style="text-align:center">ml</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4286/35759555336_016018e1dc_o.jpg" alt="Nước" title="Nước"></td>
-</tr>
-<tr>
-<td style="text-align:left">Tỏi</td>
-<td style="text-align:right">10</td>
-<td style="text-align:center">củ</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4217/35759555006_70cb9851dc_o.jpg" alt="Tỏi" title="Tỏi"></td>
-</tr>
-<tr>
-<td style="text-align:left">Giấm</td>
-<td style="text-align:right">500</td>
-<td style="text-align:center">chai ml</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4259/35759556086_a82ee26f5c_o.jpg" alt="Giấm trắng" title="Giấm trắng"></td>
-</tr>
-<tr>
-<td style="text-align:left">Đường</td>
-<td style="text-align:right">1 Muỗng</td>
-<td style="text-align:center">cup</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4234/35759555866_dbd8a0270e_o.jpg" alt="Đường" title="Đường"></td>
-</tr>
-<tr>
-<td style="text-align:left">Muối</td>
-<td style="text-align:right">2 Muỗng</td>
-<td style="text-align:center">cup</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4209/35759555516_1bbd94a6f1_o.jpg" alt="Muối" title="Muối"></td>
-</tr>
-<tr>
-<td style="text-align:left">Dao</td>
-<td style="text-align:right">01</td>
-<td style="text-align:center">cái</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4235/35773021626_bf67c47785_o.jpg" alt="Dao" title="Dao"></td>
-</tr>
-<tr>
-<td style="text-align:left">Lọ, hũ</td>
-<td style="text-align:right">01</td>
-<td style="text-align:center">chiếc</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4217/35800502715_1cd6a9d8b0_o.jpg" alt="cái Hũ, cái bình, chiếc lọ" title="cái Hũ, cái bình, chiếc lọ"></td>
-</tr>
-<tr>
-<td style="text-align:left">Đũa, hoặc thìa</td>
-<td style="text-align:right">cặp</td>
-<td style="text-align:center">chiếc</td>
-<td style="text-align:center"><img src="https://c1.staticflickr.com/5/4256/34960697924_b2a21e94bf_o.jpg" alt="Đũa" title="Đũa"></td>
-</tr>
-</tbody>
-</table>
-<h1 id="Cach-lam"><a href="#Cach-lam" class="headerlink" title="Cách làm"></a>Cách làm</h1><ul>
-<li><img src="https://c1.staticflickr.com/5/4217/35759555006_70cb9851dc_o.jpg" alt="Tỏi" title="Tỏi"> Bóc vỏ, chẻ nhỏ dễ ăn tương tự ngoài quán hay làm.</li>
-<li><img src="https://c1.staticflickr.com/5/4217/35800502715_1cd6a9d8b0_o.jpg" alt="cái Hũ, cái bình, chiếc lọ" title="cái Hũ, cái bình, chiếc lọ"> Cho tỏi đã chẻ nhỏ vào lọ.</li>
-<li><img src="https://c1.staticflickr.com/5/4286/35759555336_016018e1dc_o.jpg" alt="Nước" title="Nước"> Cho nước lạnh vào chai cho ngập tỏi đã chẻ nhỏ.</li>
-<li><img src="https://c1.staticflickr.com/5/4209/35759555516_1bbd94a6f1_o.jpg" alt="Muối" title="Muối"> Cho một muỗng muối vào khuấy đều. Mục đích chính là ngâm tỏi đã chẻ nhỏ, để cho vơi bớt nhựa từ tỏi. Thời gian ngâm kéo dài 1 - 2h giờ đồng hồ.</li>
-<li>Sau khi ngâm, các bạn đổ bỏ nước lạnh trong chai đi.</li>
-<li><img src="https://c1.staticflickr.com/5/4286/35759555336_016018e1dc_o.jpg" alt="Nước" title="Nước"> Cho nước đun sôi để nguội 100ml vào.</li>
-<li><img src="https://c1.staticflickr.com/5/4259/35759556086_a82ee26f5c_o.jpg" alt="Giấm trắng" title="Giấm trắng"> Đổ giấm trắng vào cho ngập tỏi.</li>
-<li><img src="https://c1.staticflickr.com/5/4209/35759555516_1bbd94a6f1_o.jpg" alt="Muối" title="Muối"> Cho một muỗng muối vào khuấy đều.</li>
-<li><img src="https://c1.staticflickr.com/5/4234/35759555866_dbd8a0270e_o.jpg" alt="Đường" title="Đường"> Cho một muỗng đường vào khuấy đều.</li>
-</ul>
-<p>Cuối cùng đem ngâm từ 2 ngày trở nên Sẽ cho tỏi vừa thơm, giòn, hơi chua chua, dễ ăn và không bị vàng hay nổi váng.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Ngày trước, mình hay đi ăn ở những quán ven đường. Nhất là hủ tíu khô, hủ tíu nước, hay
-    
-    </summary>
-    
-      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
-    
-    
-      <category term="Foods" scheme="http://dendua.com/tags/Foods/"/>
-    
-      <category term="Kitchen" scheme="http://dendua.com/tags/Kitchen/"/>
-    
-      <category term="Garlic" scheme="http://dendua.com/tags/Garlic/"/>
-    
-      <category term="WhiteVinegar" scheme="http://dendua.com/tags/WhiteVinegar/"/>
-    
-      <category term="VietnameseFood" scheme="http://dendua.com/tags/VietnameseFood/"/>
     
   </entry>
   
