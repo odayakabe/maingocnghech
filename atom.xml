@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Đèn Dừa</title>
-  <subtitle>Đèn Dừa</subtitle>
+  <title>Nihon Dream</title>
+  <subtitle>Nihon Dream</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://dendua.com/"/>
+  <link href="http://nihondream.com/"/>
   <updated>2017-08-31T18:35:56.057Z</updated>
-  <id>http://dendua.com/</id>
+  <id>http://nihondream.com/</id>
   
   <author>
-    <name>Đèn Dừa</name>
+    <name>Nihon Dream</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Danh sách Chi nhánh và trụ ATM Ngân hàng khác ở Thị xã Tân Uyên tỉnh Bình Dương</title>
-    <link href="http://dendua.com/2017/09/01/danh-sach-tru-atm-ngan-hang-tan-uyen-binh-duong/"/>
-    <id>http://dendua.com/2017/09/01/danh-sach-tru-atm-ngan-hang-tan-uyen-binh-duong/</id>
+    <link href="http://nihondream.com/2017/09/01/danh-sach-tru-atm-ngan-hang-tan-uyen-binh-duong/"/>
+    <id>http://nihondream.com/2017/09/01/danh-sach-tru-atm-ngan-hang-tan-uyen-binh-duong/</id>
     <published>2017-08-31T18:35:02.768Z</published>
     <updated>2017-08-31T18:35:56.057Z</updated>
     
@@ -42,21 +42,21 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Binhduong" scheme="http://dendua.com/tags/Binhduong/"/>
+      <category term="Binhduong" scheme="http://nihondream.com/tags/Binhduong/"/>
     
-      <category term="Tanuyen" scheme="http://dendua.com/tags/Tanuyen/"/>
+      <category term="Tanuyen" scheme="http://nihondream.com/tags/Tanuyen/"/>
     
-      <category term="Banks" scheme="http://dendua.com/tags/Banks/"/>
+      <category term="Banks" scheme="http://nihondream.com/tags/Banks/"/>
     
   </entry>
   
   <entry>
     <title>Gia đình là điểm tựa</title>
-    <link href="http://dendua.com/2017/08/31/gia-dinh-la-diem-tua/"/>
-    <id>http://dendua.com/2017/08/31/gia-dinh-la-diem-tua/</id>
+    <link href="http://nihondream.com/2017/08/31/gia-dinh-la-diem-tua/"/>
+    <id>http://nihondream.com/2017/08/31/gia-dinh-la-diem-tua/</id>
     <published>2017-08-31T12:38:34.319Z</published>
     <updated>2017-08-31T12:43:49.367Z</updated>
     
@@ -78,21 +78,21 @@
     
     </summary>
     
-      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
+      <category term="Favourite" scheme="http://nihondream.com/categories/Favourite/"/>
     
     
-      <category term="DiemTua" scheme="http://dendua.com/tags/DiemTua/"/>
+      <category term="DiemTua" scheme="http://nihondream.com/tags/DiemTua/"/>
     
-      <category term="Family" scheme="http://dendua.com/tags/Family/"/>
+      <category term="Family" scheme="http://nihondream.com/tags/Family/"/>
     
-      <category term="Home" scheme="http://dendua.com/tags/Home/"/>
+      <category term="Home" scheme="http://nihondream.com/tags/Home/"/>
     
   </entry>
   
   <entry>
     <title>Hệ thống tận dụng nguồn nước mua tưới cây trồng và tạo rạch nhỏ cho gà và vịt</title>
-    <link href="http://dendua.com/2017/08/30/he-thong-tan-dung-nguon-nuoc-mua-tuoi-cay-trong/"/>
-    <id>http://dendua.com/2017/08/30/he-thong-tan-dung-nguon-nuoc-mua-tuoi-cay-trong/</id>
+    <link href="http://nihondream.com/2017/08/30/he-thong-tan-dung-nguon-nuoc-mua-tuoi-cay-trong/"/>
+    <id>http://nihondream.com/2017/08/30/he-thong-tan-dung-nguon-nuoc-mua-tuoi-cay-trong/</id>
     <published>2017-08-30T13:52:00.169Z</published>
     <updated>2017-08-31T11:08:08.889Z</updated>
     
@@ -112,19 +112,19 @@
     
     </summary>
     
-      <category term="Agriculture" scheme="http://dendua.com/categories/Agriculture/"/>
+      <category term="Agriculture" scheme="http://nihondream.com/categories/Agriculture/"/>
     
     
-      <category term="Plant" scheme="http://dendua.com/tags/Plant/"/>
+      <category term="Plant" scheme="http://nihondream.com/tags/Plant/"/>
     
-      <category term="Water" scheme="http://dendua.com/tags/Water/"/>
+      <category term="Water" scheme="http://nihondream.com/tags/Water/"/>
     
   </entry>
   
   <entry>
     <title>​Free DNS Servers (Valid August 2017)</title>
-    <link href="http://dendua.com/2017/08/30/free-dns-servers-2017/"/>
-    <id>http://dendua.com/2017/08/30/free-dns-servers-2017/</id>
+    <link href="http://nihondream.com/2017/08/30/free-dns-servers-2017/"/>
+    <id>http://nihondream.com/2017/08/30/free-dns-servers-2017/</id>
     <published>2017-08-30T12:15:50.439Z</published>
     <updated>2017-08-30T12:16:57.499Z</updated>
     
@@ -252,21 +252,21 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Free" scheme="http://dendua.com/tags/Free/"/>
+      <category term="Free" scheme="http://nihondream.com/tags/Free/"/>
     
-      <category term="DNS" scheme="http://dendua.com/tags/DNS/"/>
+      <category term="DNS" scheme="http://nihondream.com/tags/DNS/"/>
     
-      <category term="Public" scheme="http://dendua.com/tags/Public/"/>
+      <category term="Public" scheme="http://nihondream.com/tags/Public/"/>
     
   </entry>
   
   <entry>
     <title>Danh sách Chi nhánh và trụ ATM Agribank ở Thị xã Tân Uyên tỉnh Bình Dương</title>
-    <link href="http://dendua.com/2017/08/30/chi-nhanh-tru-atm-agribank-tan-uyen-binh-duong/"/>
-    <id>http://dendua.com/2017/08/30/chi-nhanh-tru-atm-agribank-tan-uyen-binh-duong/</id>
+    <link href="http://nihondream.com/2017/08/30/chi-nhanh-tru-atm-agribank-tan-uyen-binh-duong/"/>
+    <id>http://nihondream.com/2017/08/30/chi-nhanh-tru-atm-agribank-tan-uyen-binh-duong/</id>
     <published>2017-08-29T19:55:44.519Z</published>
     <updated>2017-08-29T19:58:28.677Z</updated>
     
@@ -290,21 +290,21 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Binhduong" scheme="http://dendua.com/tags/Binhduong/"/>
+      <category term="Binhduong" scheme="http://nihondream.com/tags/Binhduong/"/>
     
-      <category term="Agribank" scheme="http://dendua.com/tags/Agribank/"/>
+      <category term="Agribank" scheme="http://nihondream.com/tags/Agribank/"/>
     
-      <category term="Tanuyen" scheme="http://dendua.com/tags/Tanuyen/"/>
+      <category term="Tanuyen" scheme="http://nihondream.com/tags/Tanuyen/"/>
     
   </entry>
   
   <entry>
     <title>​Bảng giá các loại đất địa bàn tỉnh Bình Dương năm 2017</title>
-    <link href="http://dendua.com/2017/08/30/bang-gia-dat-2017-tinh-binh-duong/"/>
-    <id>http://dendua.com/2017/08/30/bang-gia-dat-2017-tinh-binh-duong/</id>
+    <link href="http://nihondream.com/2017/08/30/bang-gia-dat-2017-tinh-binh-duong/"/>
+    <id>http://nihondream.com/2017/08/30/bang-gia-dat-2017-tinh-binh-duong/</id>
     <published>2017-08-29T18:59:47.425Z</published>
     <updated>2017-08-29T19:18:05.232Z</updated>
     
@@ -323,21 +323,21 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Land" scheme="http://dendua.com/tags/Land/"/>
+      <category term="Land" scheme="http://nihondream.com/tags/Land/"/>
     
-      <category term="Price" scheme="http://dendua.com/tags/Price/"/>
+      <category term="Price" scheme="http://nihondream.com/tags/Price/"/>
     
-      <category term="Binhduong" scheme="http://dendua.com/tags/Binhduong/"/>
+      <category term="Binhduong" scheme="http://nihondream.com/tags/Binhduong/"/>
     
   </entry>
   
   <entry>
     <title>Lover of Gatbyjs Static Generation Content</title>
-    <link href="http://dendua.com/2017/08/29/lover-of-gatbyjs-static-generation-content/"/>
-    <id>http://dendua.com/2017/08/29/lover-of-gatbyjs-static-generation-content/</id>
+    <link href="http://nihondream.com/2017/08/29/lover-of-gatbyjs-static-generation-content/"/>
+    <id>http://nihondream.com/2017/08/29/lover-of-gatbyjs-static-generation-content/</id>
     <published>2017-08-29T16:34:50.951Z</published>
     <updated>2017-08-30T06:52:04.993Z</updated>
     
@@ -483,21 +483,21 @@
     
     </summary>
     
-      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
+      <category term="Favourite" scheme="http://nihondream.com/categories/Favourite/"/>
     
     
-      <category term="Gatsby" scheme="http://dendua.com/tags/Gatsby/"/>
+      <category term="Gatsby" scheme="http://nihondream.com/tags/Gatsby/"/>
     
-      <category term="Lover" scheme="http://dendua.com/tags/Lover/"/>
+      <category term="Lover" scheme="http://nihondream.com/tags/Lover/"/>
     
-      <category term="Ihororlovskyi" scheme="http://dendua.com/tags/Ihororlovskyi/"/>
+      <category term="Ihororlovskyi" scheme="http://nihondream.com/tags/Ihororlovskyi/"/>
     
   </entry>
   
   <entry>
     <title>Ta cùng nhau nghiên cứu về cây Măng Cụt</title>
-    <link href="http://dendua.com/2017/08/29/purple-mangosteen-plant-home/"/>
-    <id>http://dendua.com/2017/08/29/purple-mangosteen-plant-home/</id>
+    <link href="http://nihondream.com/2017/08/29/purple-mangosteen-plant-home/"/>
+    <id>http://nihondream.com/2017/08/29/purple-mangosteen-plant-home/</id>
     <published>2017-08-29T15:08:51.436Z</published>
     <updated>2017-08-29T19:40:45.599Z</updated>
     
@@ -645,23 +645,23 @@
     
     </summary>
     
-      <category term="Agriculture" scheme="http://dendua.com/categories/Agriculture/"/>
+      <category term="Agriculture" scheme="http://nihondream.com/categories/Agriculture/"/>
     
     
-      <category term="Plant" scheme="http://dendua.com/tags/Plant/"/>
+      <category term="Plant" scheme="http://nihondream.com/tags/Plant/"/>
     
-      <category term="Home" scheme="http://dendua.com/tags/Home/"/>
+      <category term="Home" scheme="http://nihondream.com/tags/Home/"/>
     
-      <category term="Mangosteen" scheme="http://dendua.com/tags/Mangosteen/"/>
+      <category term="Mangosteen" scheme="http://nihondream.com/tags/Mangosteen/"/>
     
-      <category term="Mangcut" scheme="http://dendua.com/tags/Mangcut/"/>
+      <category term="Mangcut" scheme="http://nihondream.com/tags/Mangcut/"/>
     
   </entry>
   
   <entry>
     <title>Kế hoạch tự chủ kinh tế gia đình</title>
-    <link href="http://dendua.com/2017/08/29/ke-hoach-tu-chu-kinh-te-gia-dinh/"/>
-    <id>http://dendua.com/2017/08/29/ke-hoach-tu-chu-kinh-te-gia-dinh/</id>
+    <link href="http://nihondream.com/2017/08/29/ke-hoach-tu-chu-kinh-te-gia-dinh/"/>
+    <id>http://nihondream.com/2017/08/29/ke-hoach-tu-chu-kinh-te-gia-dinh/</id>
     <published>2017-08-28T19:36:05.068Z</published>
     <updated>2017-08-28T19:36:55.724Z</updated>
     
@@ -683,21 +683,21 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Plant" scheme="http://dendua.com/tags/Plant/"/>
+      <category term="Plant" scheme="http://nihondream.com/tags/Plant/"/>
     
-      <category term="Family" scheme="http://dendua.com/tags/Family/"/>
+      <category term="Family" scheme="http://nihondream.com/tags/Family/"/>
     
-      <category term="Saving" scheme="http://dendua.com/tags/Saving/"/>
+      <category term="Saving" scheme="http://nihondream.com/tags/Saving/"/>
     
   </entry>
   
   <entry>
     <title>Bạn có biết, một gia đình sống ở nông thôn có thể tiết kiệm bao nhiêu tiền Gas?</title>
-    <link href="http://dendua.com/2017/08/22/ban-co-biet-mot-gia-dinh-song-o-nong-thon-tiet-kiem-bao-nhieu-tien-gas/"/>
-    <id>http://dendua.com/2017/08/22/ban-co-biet-mot-gia-dinh-song-o-nong-thon-tiet-kiem-bao-nhieu-tien-gas/</id>
+    <link href="http://nihondream.com/2017/08/22/ban-co-biet-mot-gia-dinh-song-o-nong-thon-tiet-kiem-bao-nhieu-tien-gas/"/>
+    <id>http://nihondream.com/2017/08/22/ban-co-biet-mot-gia-dinh-song-o-nong-thon-tiet-kiem-bao-nhieu-tien-gas/</id>
     <published>2017-08-22T10:07:57.193Z</published>
     <updated>2017-08-22T10:08:35.358Z</updated>
     
@@ -720,19 +720,19 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Cui" scheme="http://dendua.com/tags/Cui/"/>
+      <category term="Cui" scheme="http://nihondream.com/tags/Cui/"/>
     
-      <category term="Gas" scheme="http://dendua.com/tags/Gas/"/>
+      <category term="Gas" scheme="http://nihondream.com/tags/Gas/"/>
     
   </entry>
   
   <entry>
     <title>National Geographic Quá trình tạo ra thanh Katana Nhật Bản</title>
-    <link href="http://dendua.com/2017/08/21/national-geographic-tao-ra-katana/"/>
-    <id>http://dendua.com/2017/08/21/national-geographic-tao-ra-katana/</id>
+    <link href="http://nihondream.com/2017/08/21/national-geographic-tao-ra-katana/"/>
+    <id>http://nihondream.com/2017/08/21/national-geographic-tao-ra-katana/</id>
     <published>2017-08-21T14:17:57.147Z</published>
     <updated>2017-08-21T14:24:23.874Z</updated>
     
@@ -746,21 +746,21 @@
     
     </summary>
     
-      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
+      <category term="Favourite" scheme="http://nihondream.com/categories/Favourite/"/>
     
     
-      <category term="Youtube" scheme="http://dendua.com/tags/Youtube/"/>
+      <category term="Youtube" scheme="http://nihondream.com/tags/Youtube/"/>
     
-      <category term="NationalGeographic" scheme="http://dendua.com/tags/NationalGeographic/"/>
+      <category term="NationalGeographic" scheme="http://nihondream.com/tags/NationalGeographic/"/>
     
-      <category term="Katana" scheme="http://dendua.com/tags/Katana/"/>
+      <category term="Katana" scheme="http://nihondream.com/tags/Katana/"/>
     
   </entry>
   
   <entry>
     <title>Mục tiêu của gia đình khi sống ở nông thôn</title>
-    <link href="http://dendua.com/2017/08/19/muc-tieu-gia-dinh-song-o-nong-thon/"/>
-    <id>http://dendua.com/2017/08/19/muc-tieu-gia-dinh-song-o-nong-thon/</id>
+    <link href="http://nihondream.com/2017/08/19/muc-tieu-gia-dinh-song-o-nong-thon/"/>
+    <id>http://nihondream.com/2017/08/19/muc-tieu-gia-dinh-song-o-nong-thon/</id>
     <published>2017-08-18T20:25:01.347Z</published>
     <updated>2017-08-18T20:27:08.396Z</updated>
     
@@ -807,9 +807,9 @@
 <li>Ba là, Tiết kiệm các chi phí liên quan đến <strong>phân bón</strong> / 9.000 đồng  1 kg / kali =&gt; 1 bao 25kg = <strong>225.000 đồng mỗi tháng</strong> tiết kiệm được. (Hiện nay gia đình tự chủ được phân Kali tự nhiên từ Tro bếp, bởi mỗi tháng tiêu thụ lên đến 110 kg củi tự nhiên sinh ra một khối lượng tro bếp tương xứng số lượng phân kali cần để bón thúc cho cây.)</li>
 </ul>
 <h2 id="Dan-nguon"><a href="#Dan-nguon" class="headerlink" title="Dẫn nguồn"></a>Dẫn nguồn</h2><ul>
-<li>[1] <a href="http://dendua.com/categories/agriculture/">http://dendua.com/categories/agriculture/</a></li>
-<li>[2] <a href="http://dendua.com/categories/resources/">http://dendua.com/categories/resources/</a></li>
-<li>[3] <a href="http://dendua.com/categories/business/">http://dendua.com/categories/business/</a></li>
+<li>[1] <a href="http://dendua.com/categories/agriculture/" target="_blank" rel="external">http://dendua.com/categories/agriculture/</a></li>
+<li>[2] <a href="http://dendua.com/categories/resources/" target="_blank" rel="external">http://dendua.com/categories/resources/</a></li>
+<li>[3] <a href="http://dendua.com/categories/business/" target="_blank" rel="external">http://dendua.com/categories/business/</a></li>
 </ul>
 ]]></content>
     
@@ -820,19 +820,19 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Family" scheme="http://dendua.com/tags/Family/"/>
+      <category term="Family" scheme="http://nihondream.com/tags/Family/"/>
     
-      <category term="Saving" scheme="http://dendua.com/tags/Saving/"/>
+      <category term="Saving" scheme="http://nihondream.com/tags/Saving/"/>
     
   </entry>
   
   <entry>
     <title>Gas vs Củi</title>
-    <link href="http://dendua.com/2017/08/18/gas-vs-cui/"/>
-    <id>http://dendua.com/2017/08/18/gas-vs-cui/</id>
+    <link href="http://nihondream.com/2017/08/18/gas-vs-cui/"/>
+    <id>http://nihondream.com/2017/08/18/gas-vs-cui/</id>
     <published>2017-08-18T07:44:19.210Z</published>
     <updated>2017-08-18T07:48:57.894Z</updated>
     
@@ -862,19 +862,19 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Cui" scheme="http://dendua.com/tags/Cui/"/>
+      <category term="Cui" scheme="http://nihondream.com/tags/Cui/"/>
     
-      <category term="Gas" scheme="http://dendua.com/tags/Gas/"/>
+      <category term="Gas" scheme="http://nihondream.com/tags/Gas/"/>
     
   </entry>
   
   <entry>
     <title>Một số đặc tính cơ bản của Gas</title>
-    <link href="http://dendua.com/2017/08/18/mot-so-dac-tinh-co-ban-gas/"/>
-    <id>http://dendua.com/2017/08/18/mot-so-dac-tinh-co-ban-gas/</id>
+    <link href="http://nihondream.com/2017/08/18/mot-so-dac-tinh-co-ban-gas/"/>
+    <id>http://nihondream.com/2017/08/18/mot-so-dac-tinh-co-ban-gas/</id>
     <published>2017-08-18T07:43:01.734Z</published>
     <updated>2017-08-18T07:45:18.527Z</updated>
     
@@ -913,17 +913,17 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Gas" scheme="http://dendua.com/tags/Gas/"/>
+      <category term="Gas" scheme="http://nihondream.com/tags/Gas/"/>
     
   </entry>
   
   <entry>
     <title>Lists of Films Samurai by Bakadono</title>
-    <link href="http://dendua.com/2017/08/17/lists-of-films-samurai-bakadono/"/>
-    <id>http://dendua.com/2017/08/17/lists-of-films-samurai-bakadono/</id>
+    <link href="http://nihondream.com/2017/08/17/lists-of-films-samurai-bakadono/"/>
+    <id>http://nihondream.com/2017/08/17/lists-of-films-samurai-bakadono/</id>
     <published>2017-08-17T08:41:25.204Z</published>
     <updated>2017-08-20T10:07:48.841Z</updated>
     
@@ -1241,21 +1241,21 @@
     
     </summary>
     
-      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
+      <category term="Favourite" scheme="http://nihondream.com/categories/Favourite/"/>
     
     
-      <category term="Japan" scheme="http://dendua.com/tags/Japan/"/>
+      <category term="Japan" scheme="http://nihondream.com/tags/Japan/"/>
     
-      <category term="Jidaigeki" scheme="http://dendua.com/tags/Jidaigeki/"/>
+      <category term="Jidaigeki" scheme="http://nihondream.com/tags/Jidaigeki/"/>
     
-      <category term="Movies" scheme="http://dendua.com/tags/Movies/"/>
+      <category term="Movies" scheme="http://nihondream.com/tags/Movies/"/>
     
   </entry>
   
   <entry>
     <title>Thể loại phim Nhật Bản Jidai-geki (thời đại kịch)</title>
-    <link href="http://dendua.com/2017/08/17/jidai-geki/"/>
-    <id>http://dendua.com/2017/08/17/jidai-geki/</id>
+    <link href="http://nihondream.com/2017/08/17/jidai-geki/"/>
+    <id>http://nihondream.com/2017/08/17/jidai-geki/</id>
     <published>2017-08-16T20:03:10.726Z</published>
     <updated>2017-08-16T20:04:39.725Z</updated>
     
@@ -1792,21 +1792,21 @@
     
     </summary>
     
-      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
+      <category term="Favourite" scheme="http://nihondream.com/categories/Favourite/"/>
     
     
-      <category term="Japan" scheme="http://dendua.com/tags/Japan/"/>
+      <category term="Japan" scheme="http://nihondream.com/tags/Japan/"/>
     
-      <category term="Jidaigeki" scheme="http://dendua.com/tags/Jidaigeki/"/>
+      <category term="Jidaigeki" scheme="http://nihondream.com/tags/Jidaigeki/"/>
     
-      <category term="Movies" scheme="http://dendua.com/tags/Movies/"/>
+      <category term="Movies" scheme="http://nihondream.com/tags/Movies/"/>
     
   </entry>
   
   <entry>
     <title>Người Ấn Độ lấy tên miền Dendua.com làm tên miền của thị trấn</title>
-    <link href="http://dendua.com/2017/08/16/india-choice-dendua-official-website-of-the-town/"/>
-    <id>http://dendua.com/2017/08/16/india-choice-dendua-official-website-of-the-town/</id>
+    <link href="http://nihondream.com/2017/08/16/india-choice-dendua-official-website-of-the-town/"/>
+    <id>http://nihondream.com/2017/08/16/india-choice-dendua-official-website-of-the-town/</id>
     <published>2017-08-16T07:39:32.603Z</published>
     <updated>2017-08-16T07:40:33.987Z</updated>
     
@@ -1822,23 +1822,23 @@
     
     </summary>
     
-      <category term="Favourite" scheme="http://dendua.com/categories/Favourite/"/>
+      <category term="Favourite" scheme="http://nihondream.com/categories/Favourite/"/>
     
     
-      <category term="India" scheme="http://dendua.com/tags/India/"/>
+      <category term="India" scheme="http://nihondream.com/tags/India/"/>
     
-      <category term="Official" scheme="http://dendua.com/tags/Official/"/>
+      <category term="Official" scheme="http://nihondream.com/tags/Official/"/>
     
-      <category term="Website" scheme="http://dendua.com/tags/Website/"/>
+      <category term="Website" scheme="http://nihondream.com/tags/Website/"/>
     
-      <category term="Town" scheme="http://dendua.com/tags/Town/"/>
+      <category term="Town" scheme="http://nihondream.com/tags/Town/"/>
     
   </entry>
   
   <entry>
     <title>Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản</title>
-    <link href="http://dendua.com/2017/08/16/website-bakadono-build-info/"/>
-    <id>http://dendua.com/2017/08/16/website-bakadono-build-info/</id>
+    <link href="http://nihondream.com/2017/08/16/website-bakadono-build-info/"/>
+    <id>http://nihondream.com/2017/08/16/website-bakadono-build-info/</id>
     <published>2017-08-16T07:01:38.021Z</published>
     <updated>2017-08-16T07:02:53.604Z</updated>
     
@@ -1872,21 +1872,21 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Website" scheme="http://dendua.com/tags/Website/"/>
+      <category term="Website" scheme="http://nihondream.com/tags/Website/"/>
     
-      <category term="Bakadono" scheme="http://dendua.com/tags/Bakadono/"/>
+      <category term="Bakadono" scheme="http://nihondream.com/tags/Bakadono/"/>
     
-      <category term="Build" scheme="http://dendua.com/tags/Build/"/>
+      <category term="Build" scheme="http://nihondream.com/tags/Build/"/>
     
   </entry>
   
   <entry>
     <title>Phim về Miyamoto Musashi và cuốn sách Go Rin no Sho Ngũ Luân Thư bản dịch Tiếng Việt</title>
-    <link href="http://dendua.com/2017/08/16/miyamoto-musashi/"/>
-    <id>http://dendua.com/2017/08/16/miyamoto-musashi/</id>
+    <link href="http://nihondream.com/2017/08/16/miyamoto-musashi/"/>
+    <id>http://nihondream.com/2017/08/16/miyamoto-musashi/</id>
     <published>2017-08-15T18:42:30.084Z</published>
     <updated>2017-08-15T18:44:21.382Z</updated>
     
@@ -1922,21 +1922,21 @@
     
     </summary>
     
-      <category term="Study" scheme="http://dendua.com/categories/Study/"/>
+      <category term="Study" scheme="http://nihondream.com/categories/Study/"/>
     
     
-      <category term="Japan" scheme="http://dendua.com/tags/Japan/"/>
+      <category term="Japan" scheme="http://nihondream.com/tags/Japan/"/>
     
-      <category term="MiyamotoMusashi" scheme="http://dendua.com/tags/MiyamotoMusashi/"/>
+      <category term="MiyamotoMusashi" scheme="http://nihondream.com/tags/MiyamotoMusashi/"/>
     
-      <category term="GoRinnoSho" scheme="http://dendua.com/tags/GoRinnoSho/"/>
+      <category term="GoRinnoSho" scheme="http://nihondream.com/tags/GoRinnoSho/"/>
     
   </entry>
   
   <entry>
     <title>Tài sản gia đình Tro bếp</title>
-    <link href="http://dendua.com/2017/08/16/tai-san-gia-dinh-tro-bep/"/>
-    <id>http://dendua.com/2017/08/16/tai-san-gia-dinh-tro-bep/</id>
+    <link href="http://nihondream.com/2017/08/16/tai-san-gia-dinh-tro-bep/"/>
+    <id>http://nihondream.com/2017/08/16/tai-san-gia-dinh-tro-bep/</id>
     <published>2017-08-15T18:30:21.672Z</published>
     <updated>2017-08-15T18:47:07.488Z</updated>
     
@@ -1989,14 +1989,14 @@
     
     </summary>
     
-      <category term="Resources" scheme="http://dendua.com/categories/Resources/"/>
+      <category term="Resources" scheme="http://nihondream.com/categories/Resources/"/>
     
     
-      <category term="Tro" scheme="http://dendua.com/tags/Tro/"/>
+      <category term="Tro" scheme="http://nihondream.com/tags/Tro/"/>
     
-      <category term="Assets" scheme="http://dendua.com/tags/Assets/"/>
+      <category term="Assets" scheme="http://nihondream.com/tags/Assets/"/>
     
-      <category term="TroBep" scheme="http://dendua.com/tags/TroBep/"/>
+      <category term="TroBep" scheme="http://nihondream.com/tags/TroBep/"/>
     
   </entry>
   
