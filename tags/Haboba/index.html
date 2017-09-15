@@ -5,7 +5,7 @@
   
 <head>
   <meta charset="UTF-8">
-  <title>Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản - Nihon Dream</title>
+  <title>Thẻ: Haboba - Nihon Dream</title>
 
   <!-- Favicons -->
   <link rel="icon shortcut" type="image/ico" href="/img/favicon.png">
@@ -48,9 +48,9 @@
   <meta name="mobile-web-app-capable" content="yes">
 
   <!-- The Open Graph protocol -->
-  <meta property="og:url" content="http://nihondream.com/2017/08/16/website-bakadono-build-info/index.html">
+  <meta property="og:url" content="http://nihondream.com/tags/Haboba/index.html">
   <meta property="og:type" content="blog">
-  <meta property="og:title" content="Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản - Nihon Dream | Nihon Dream">
+  <meta property="og:title" content="Thẻ: Haboba - Nihon Dream | Nihon Dream">
   <meta property="og:description" content="Nihon Dream, an product of Bakadono">
 
   <!-- Cache -->
@@ -85,7 +85,7 @@
 
 
 
-  <body class="mdui-appbar-with-toolbar mdui-theme-primary-indigo mdui-theme-accent-blue  mdui-drawer-body-left  drawer-overlay-none" >
+  <body class="mdui-appbar-with-toolbar mdui-theme-primary-indigo mdui-theme-accent-blue  mdui-drawer-body-left side-content style-fix drawer-overlay-none" onresize="styleChanging()">
 
 <div id="top"></div>
 
@@ -94,8 +94,8 @@
   <div class="mdui-appbar mdui-appbar-fixed" id="blog-appbar">
     <div class="mdui-toolbar mdui-color-theme">
       
-        <button class="mdui-btn mdui-btn-icon" back>
-          <i class="mdui-icon material-icons">&#xe5c4;</i>
+        <button class="mdui-btn mdui-btn-icon" mdui-drawer="{target: '#drawer'}">
+          <i class="mdui-icon material-icons">&#xe5d2;</i>
         </button>
       
       
@@ -104,8 +104,8 @@
         </a>
         <span class="appbar-border-line mdui-hidden-xs"></span>
       
-      <span class="mdui-typo-title mdui-hidden-xs toTop">
-        Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản
+      <span class="mdui-typo-title  toTop">
+        Haboba
       </span>
       
         <div class="search mdui-hidden-sm-down" onclick="window.open('/search', '_self');">
@@ -153,15 +153,99 @@
 </div>
 
       
+        <button class="mdui-btn mdui-btn-icon style-fix"><i class="mdui-icon material-icons">&#xe80d;</i></button>
+      
     </div>
   </div>
 
 
 
 
+  
+<div id="side-content" class="mdui-color-indigo">
+  <div class="mdui-grid-tile" style="overflow: visible;">
+    <div class="bg">
+      <img src="/img/random/randompic_5.jpg" />
+    </div>
+    <div class="mdui-grid-tile-actions mdui-grid-tile-actions-top mdui-grid-tile-actions-gradient">
+      <div class="flex-spacer"></div>
+      <div class="mdui-grid-tile-buttons">
+        <button class="mdui-btn mdui-btn-icon mdui-float-right" mdui-menu="{target: '#menu-page-share'}"><i class="mdui-icon material-icons">&#xe80d;</i></button>
+        <ul class="mdui-menu" id="menu-page-share">
+
+
+  <li class="mdui-menu-item">
+      <a href="/atom.xml" target="_blank" class="mdui-ripple">
+          RSS
+      </a>
+  </li>
+
+
+
+  <li class="mdui-menu-item">
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://nihondream.com/tags/Haboba/index.html" target="_blank" class="mdui-ripple">
+          Facebook
+      </a>
+  </li>
+
+
+
+  <li class="mdui-menu-item">
+      <a href="https://plus.google.com/share?url=http://nihondream.com/tags/Haboba/index.html" target="_blank" class="mdui-ripple">
+          Google+
+      </a>
+  </li>
+
+
+
+  <li class="mdui-menu-item">
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://nihondream.com/tags/Haboba/index.html&title=Haboba" target="_blank" class="mdui-ripple">
+          Linkedin
+      </a>
+  </li>
+
+
+
+
+
+
+
+  <li class="mdui-menu-item">
+      <a href="https://twitter.com/intent/tweet?text=Haboba&url=http://nihondream.com/tags/Haboba/index.html&via=Nihon Dream" target="_blank" class="mdui-ripple">
+          Twitter
+      </a>
+  </li>
+
+
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+  <div class="content">
+    <img class="mdui-img-circle avatar" src="/img/thaoam_avatar.png"/>
+    <div class="author mdui-text-center">
+      Nihon Dream
+    </div>
+    <div class="name">
+      Haboba
+    </div>
+    <div class="length" id="postsCount"></div>
+  </div>
+</div>
+<div id="contentLocation"></div>
+
+
 
 <main>
-  <div class="mdui-card card-bottom-fix menu-fix mdui-hoverable" id="blog-post">
+  <div class="posts-container column-3">
+
+</div>
+<div id="content-list">
+  
+    <div class="content-item">
+      <div class="mdui-card card-bottom-fix mdui-hoverable mdui-center" id="index">
   <div class="mdui-card-header posts-card-header">
     <img class="mdui-card-header-avatar" src="/img/thaoam_avatar.png"/>
     <div class="content mdui-valign">
@@ -183,204 +267,80 @@
     <div class="mdui-valign">
       <div class="mdui-typo-caption-opacity date">Th08 16, 2017</div>
       <div class="buttons">
-        <!--<button class="mdui-btn mdui-btn-icon mdui-float-right" mdui-menu="{target: '#menu-post-more'}">
-          <i class="mdui-icon material-icons">&#xe417;</i>
-        </button>-->
-        <!--<ul class="mdui-menu" id="menu-post-more">
-  nothing here
-</ul>-->
-
-        <button class="mdui-btn mdui-btn-icon mdui-float-right" mdui-menu="{target: '#menu-post-share'}">
-          <i class="mdui-icon material-icons">&#xe80d;</i>
-        </button>
-        <ul class="mdui-menu" id="menu-post-share">
-
-
-  <li class="mdui-menu-item">
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://nihondream.com/2017/08/16/website-bakadono-build-info/index.html" target="_blank" class="mdui-ripple">
-          Facebook
-      </a>
-  </li>
-
-
-
-  <li class="mdui-menu-item">
-      <a href="https://plus.google.com/share?url=http://nihondream.com/2017/08/16/website-bakadono-build-info/index.html" target="_blank" class="mdui-ripple">
-          Google+
-      </a>
-  </li>
-
-
-
-  <li class="mdui-menu-item">
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://nihondream.com/2017/08/16/website-bakadono-build-info/index.html&title=Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản" target="_blank" class="mdui-ripple">
-          Linkedin
-      </a>
-  </li>
-
-
-
-
-
-
-
-  <li class="mdui-menu-item">
-      <a href="https://twitter.com/intent/tweet?text=Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản&url=http://nihondream.com/2017/08/16/website-bakadono-build-info/index.html&via=Nihon Dream" target="_blank" class="mdui-ripple">
-          Twitter
-      </a>
-  </li>
-
-
-
-</ul>
-
-        
-        <button class="mdui-btn mdui-btn-icon mdui-float-right mdui-hidden-xs-down" mdui-menu="{target: '#menu-qrcode'}">
-          <i class="mdui-icon material-icons">&#xe337;</i>
-        </button>
-        <ul class="mdui-menu" id="menu-qrcode">
-  <li class="mdui-list-item" style="cursor: auto">
-    Article QR Code
-  </li>
-    <img class="mdui-img-fluid" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPYAAAD2CAAAAADAeSUUAAACzklEQVR42u3aQVLDMBAEwPz/0/AAiDOzCikjtU8cElstqlg048fXkdcDGxsbGxsbGxsb+5bsR3xdf+uXxzz51s87PPt88t1izdjY2Nhbs1/86b9k58t69sl8s5bWjI2NjX0AO19oMmyuB1s+JpOfk3GIjY2Njd0OmOu7tQeVlTVjY2NjY+eBzsoS2/tgY2NjY88CmnYL2iNNe88PZWnY2NjYt2fnpel9fv5ov42NjY19Y3Z7JaF/Gzm1pfJw5djY2NibsmeBUb7oBJy/7jMLtrCxsbHPYa/Ut/mIWnl9pz20YGNjY5/DzsvXlcg+rxxmBfCL4YqNjY19ALs9VLSfTKKo6zI4D5iwsbGxT2Ov/NOfR/yzkZasbdhvY2NjY2/BzqOla0wb5bcHj9lWYmNjY5/AzsH5Y2ZFQr5Ns+MKNjY29jnsWXDzWLiSI1C+ocN+GxsbG/vfstfHxmwR+TEj35ri5UtsbGzs7djtEmfgNqKahUrFAMPGxsbejr0yJPJjQ07Kv1WHStjY2NgbsfPgfhYnzTairRCiXwM2Njb2pux8aM14s9o4pxbbh42Njb0pez3Qzx/83vo2LwawsbGxT2C3L0e2BXC7We2Lm8NQCRsbG3sL9qwYyAuD/MjRhlDY2NjY2DNY+/i2mm1J+S8DGxsbe292Xpe+6yAxC4bauAobGxv7HHY9DOIgKYmfVo5DRVCFjY2NfQC7HVp5iD8cObPw6NlKsLGxsY9hzyrb5G7v2ty2MMDGxsbemz0Lbv7uoJIPqjrAwsbGxt6UPRsGbbWwUiGslMTY2NjY57DbRybDZmVD20NOpMDGxsY+gD2LkPLKdmUUtZtY99vY2NjYh7HzAbYSRb23qMDGxsbGbgEr+OSTecGAjY2NfQ47CXcSwKya/YsCGBsbG/scdhvWJI9vR9GsYP5Qv42NjY19Y/Y5FzY2NjY2NjY2NvZtrm8qlT4QJYt4fwAAAABJRU5ErkJggg==" style="cursor: auto">
-</ul>
-
-        
+        <a href="/2017/08/16/bakadono-local-project-to-end-of-2017/" target="_self" class="mdui-btn mdui-btn-icon mdui-ripple mdui-btn-dense"><i class="mdui-icon material-icons">&#xe89e;</i></a>
       </div>
     </div>
   </div>
-  <div class="posts-card-title">
-    Xây dựng trang web Bakadono lưu trữ nội dung học tiếng Nhật bản du học Nhật Bản và định cư Nhật Bản
+  <div class="posts-card-title mdui-typo">
+    <a href="/2017/08/16/bakadono-local-project-to-end-of-2017/" target="_self">Tình hình phát triển các local project đến cuối năm 2017</a>
   </div>
-  
-    <div class="mdui-card-media">
-      <img src="https://c1.staticflickr.com/5/4420/36206139070_3fb91d2ce1_b.jpg"/>
-    </div>
-  
   <div class="posts-card-line">
     <div class="mdui-divider"></div>
   </div>
-  <div class="posts-card-content mdui-typo
-    null
-    
-  " id="post-content">
-
-  </center>
-
-    <script src="/assets/js/APlayer.min.js"> </script><p>Hiện tại thì <strong>Bakadono</strong> vẫn đang trong quá trình xây dựng và tổng hợp dữ liệu và chỉnh sửa giao diện cho phù hợp hiển thị trên mọi loại trình duyệt như trên điện thoại, laptop, máy tính để bàn, tablet, hay máy tính bảng vân vân….</p>
-<p>Chủ yếu vẫn là kiểm tra luồng thông tin và cập nhật vào một cách có khoa học.</p>
-<p>Các chủ đề chính xây dựng để lưu trữ các dữ liệu thu được đó là:</p>
-<blockquote>
-<ul>
-<li>Học tiếng Nhật Bản</li>
-<li>Thông tin du học Nhật Bản (điều kiện, du học, trường, chi phí, vân vân…)</li>
-<li>Sở hữu tài sản nhà đất, mua nhà tại Nhật Bản.</li>
-<li>Văn hóa, nghệ thuật Nhật Bản</li>
-<li>Định cư tại Nhật.</li>
-<li>… vân vân … chưa kịp thống kê</li>
-</ul>
-</blockquote>
-<h2 id="Trong-qua-trinh-xay-dung"><a href="#Trong-qua-trinh-xay-dung" class="headerlink" title="Trong qúa trình xây dựng"></a>Trong qúa trình xây dựng</h2><p>Địa chỉ: <a href="http://bakadono.ga" target="_blank" rel="external">http://bakadono.ga</a><br>Data center đặt tại Singapore &amp; Google.</p>
-<p>Bakadono được xây dựng như thế nào?</p>
-<h1 id="Framework"><a href="#Framework" class="headerlink" title="Framework"></a>Framework</h1><p>Dựa trên nguyên mẫu thiết kế gốc có tên gọi là <strong>Nihonne</strong>. Phiên bản 0.0.9.<br>Tạo dựng vào năm 2017 bằng Static Generator Content <strong>Gatsby</strong>.</p>
-<h1 id="Hosting"><a href="#Hosting" class="headerlink" title="Hosting"></a>Hosting</h1><p>Sử dụng nền tảng lưu trữ mã nguồn mở <strong>GitHub</strong> và Deploy lên <strong>Netlify</strong> server data đặt tại Amazon AWS Singapore.</p>
-<h1 id="Ten-mien"><a href="#Ten-mien" class="headerlink" title="Tên miền"></a>Tên miền</h1><p>Sử dụng tên miền miễn phí dạng <strong>.tk</strong>, <strong>.ga</strong>, <strong>.ml</strong>, <strong>.cf</strong> và <strong>.gq</strong> miễn phí trong 12 tháng và có thể gia hạn bất kỳ lúc nào tùy thích.<br>Nhược điểm là có thể bị mất tên miền bất kỳ lúc nào, bởi giá back-order lại chỉ là $5.00/mỗi tên miền.</p>
-<h2 id="Tin-nhiem"><a href="#Tin-nhiem" class="headerlink" title="Tín nhiệm"></a>Tín nhiệm</h2><p>Bakadono và Nihonne chỉ tín nhiệm duy nhất nhà cung cấp tên miền <strong>Freenom</strong>. Xem chi tiết bảng giá của họ ở đường dẫn này <a href="http://www.freenom.com/vi/pricechart.html" target="_blank" rel="external">http://www.freenom.com/vi/pricechart.html</a></p>
-<h2 id="Hoan-thien"><a href="#Hoan-thien" class="headerlink" title="Hoàn thiện"></a>Hoàn thiện</h2><p>Địa chỉ <a href="http://bakadono.com" target="_blank" rel="external">http://bakadono.com</a><br>Data center đặt tại Singapore &amp; Google.</p>
-<p>Các thông tin này chủ yếu sử dụng nội bộ. Có thể có các thông tin không chính xác nên bạn đọc có thể kiểm tra và gửi bản chỉnh sửa phù hợp.</p>
-<p>Khuyến khích phát triển và cộng tác.</p>
-
-
+  <div class="posts-card-content">
+     Tính đến thời điểm giữa tháng 9, 2017. Bakadono đang phát triển 4 dự án cá nhân như dưới đây vừa nhằm phục vụ công tác đăng ký ...
   </div>
-
+  
+    <div class="mdui-card-media">
+      <img src="https://c1.staticflickr.com/5/4359/37237204205_c3ff7121de_b.jpg"/>
+    </div>
+  
   
     <div class="posts-card-actions">
       
-        <button class="mdui-btn mdui-btn-icon mdui-color-red mdui-ripple mdui-center mdui-btn-dense" mdui-tooltip="{content: 'Mua sản phẩm ủng hộ?', position: 'right'}" mdui-dialog="{target: '#donateDialog'}"><i class="mdui-icon fa fa-beer mdui-text-center"></i></button>
-      
-      <div class="flex-spacer"></div>
-      
         <div class="mdui-chip">
-          <span class="mdui-chip-icon"><i class="mdui-icon mdui-text-color-black-icon fa fa-tags"></i></span>
+          <span class="mdui-chip-icon"><i class="mdui-icon mdui-text-color-black-icon fa fa-tags mdui-text-center"></i></span>
         </div>
         <div class="content mdui-typo">
           
-            <a href="/tags/Website/">
-              <span>Website</span>
-            </a>
-          
             <a href="/tags/Bakadono/">
               <span>Bakadono</span>
+            </a>
+          
+            <a href="/tags/Website/">
+              <span>Website</span>
             </a>
           
             <a href="/tags/Build/">
               <span>Build</span>
             </a>
           
+            <a href="/tags/Haboba/">
+              <span>Haboba</span>
+            </a>
+          
+            <a href="/tags/Thaoam/">
+              <span>Thaoam</span>
+            </a>
+          
+            <a href="/tags/nihondream/">
+              <span>nihondream</span>
+            </a>
+          
         </div>
+      
       
     </div>
   
-  
-    
-      <div class="posts-card-line">
-        <div class="mdui-divider"></div>
-      </div>
-      <div class="post-comment">
-        
+</div>
 
-
-  <div id="disqus_thread"></div>
-  <script>
-    var disqus_config = function () {
-      this.page.url = 'http://nihondream.com/2017/08/16/website-bakadono-build-info/';  // Replace PAGE_URL with your page's canonical URL variable
-      this.page.identifier = 'http://nihondream.com/2017/08/16/website-bakadono-build-info/'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    (function() { // DON'T EDIT BELOW THIS LINE
-      var d = document, s = d.createElement('script');
-      s.src = '//thao-am.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-
-      </div>
-    
+    </div>
   
 </div>
-<div id="card-toc">
-  <ul class="mdui-list post-toc"><a class="mdui-list-item mdui-ripple post-toc-link" href="#Trong-qua-trinh-xay-dung"><span class="post-toc-number">1.<span class="post-toc-text">Trong qúa trình xây dựng</span></span></a></a></ul></a><a class="mdui-list-item mdui-ripple post-toc-link" href="#Framework"><span class="post-toc-number"><span class="post-toc-text">Framework</span></span></a></a><a class="mdui-list-item mdui-ripple post-toc-link" href="#Hosting"><span class="post-toc-number"><span class="post-toc-text">Hosting</span></span></a></a><a class="mdui-list-item mdui-ripple post-toc-link" href="#Ten-mien"><span class="post-toc-number"><span class="post-toc-text">Tên miền</span></span></a><ul class="mdui-list-dense post-toc-child"><a class="mdui-list-item mdui-ripple post-toc-link" href="#Tin-nhiem"><span class="post-toc-number">1.<span class="post-toc-text">Tín nhiệm</span></span></a></a><a class="mdui-list-item mdui-ripple post-toc-link" href="#Hoan-thien"><span class="post-toc-number">2.<span class="post-toc-text">Hoàn thiện</span></span></a></a></ul>
-</div>
-<div style="margin: 0 16px 16px 16px;height: 36px;">
-  
-  <a href="/2017/08/16/india-choice-dendua-official-website-of-the-town/" class="mdui-btn mdui-btn-icon mdui-color-theme-accent mdui-ripple mdui-btn-raised mdui-float-left" mdui-tooltip="{content: 'Bài viết mới', position: 'right'}">
-    <i class="mdui-icon material-icons">&#xe5cb;</i>
-  </a>
 
 
-  <a href="/2017/08/16/miyamoto-musashi/" class="mdui-btn mdui-btn-icon mdui-color-theme-accent mdui-ripple mdui-btn-raised mdui-float-right" mdui-tooltip="{content: 'Bài viết cũ', position: 'left'}">
-    <i class="mdui-icon material-icons">&#xe5cc;</i>
-  </a>
 
 
-</div>
-<button id="button-toc" class="mdui-fab mdui-color-theme-accent mdui-ripple mdui-fab-fixed mdui-hidden-sm-up" style="z-index: 9;" mdui-menu="{target: '#menu-toc', fixed: true}">
-  <i class="mdui-icon material-icons">&#xe242;</i>
+<button id="toTop" class="mdui-fab mdui-color-theme-accent mdui-ripple mdui-fab-fixed mdui-fab-hide" style="z-index: 9;" onclick="smoothScroll.animateScroll( 0 );">
+  <i class="mdui-icon material-icons">&#xe5d8;</i>
 </button>
-<ul class="mdui-menu mdui-typo no-margin-bottom auto-width" id="menu-toc" style="padding: 8px;height: 80%">
-  <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Trong-qua-trinh-xay-dung"><span class="toc-text">Trong qúa trình xây dựng</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Framework"><span class="toc-text">Framework</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Hosting"><span class="toc-text">Hosting</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Ten-mien"><span class="toc-text">Tên miền</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Tin-nhiem"><span class="toc-text">Tín nhiệm</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Hoan-thien"><span class="toc-text">Hoàn thiện</span></a></li></ol>
-</ul>
 
-
-<a href="#top" id="toTop"></a>
 
 </main>
 
 
-  <div class="mdui-drawer drawer-container " id="drawer">
-  <div class="drawer-head mdui-valign mdui-hidden-md-up">
+  <div class="mdui-drawer drawer-container mdui-drawer-full-height mdui-drawer-close drawer-shadow drawer-fix" id="drawer">
+  <div class="drawer-head mdui-valign ">
     <div class="mdui-typo-title-opacity">Nihon Dream</div>
     <div class="flex-spacer"></div>
     <button class="mdui-btn mdui-btn-icon mdui-ripple" mdui-drawer-close><i class="mdui-icon material-icons">&#xe314;</i></button>
@@ -406,7 +366,7 @@
             <i class="mdui-list-item-icon mdui-icon material-icons">&#xe149;</i>
             <div class="mdui-list-item-content">
               Lưu trữ
-              <span class="badge new mdui-color-theme-accent" data-badge-caption="">82</span>
+              <span class="badge new mdui-color-theme-accent" data-badge-caption="">87</span>
             </div>
           </li>
         </a>
@@ -458,12 +418,6 @@
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">9</span>
               </a>
             
-              <a href="/categories/NoteBook/" class="mdui-list-item mdui-ripple" style="display: flex">
-                NoteBook
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">5</span>
-              </a>
-            
               <a href="/categories/Hosting/" class="mdui-list-item mdui-ripple" style="display: flex">
                 Hosting
                 <div style="flex-grow: 1;"></div>
@@ -474,6 +428,12 @@
                 Favourite
                 <div style="flex-grow: 1;"></div>
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">8</span>
+              </a>
+            
+              <a href="/categories/NoteBook/" class="mdui-list-item mdui-ripple" style="display: flex">
+                NoteBook
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">10</span>
               </a>
             
               <a href="/categories/Study/" class="mdui-list-item mdui-ripple" style="display: flex">
@@ -496,7 +456,7 @@
             
           </div>
         </div>
-        <div class="mdui-collapse-item ">
+        <div class="mdui-collapse-item mdui-collapse-item-open">
           <div class="mdui-collapse-item-header mdui-list-item mdui-ripple">
             <i class="mdui-list-item-icon mdui-icon fa fa-tags mdui-text-center"></i>
             <div class="mdui-list-item-content">Thẻ</div>
@@ -514,6 +474,42 @@
                 Rau
                 <div style="flex-grow: 1;"></div>
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">7</span>
+              </a>
+            
+              <a href="/tags/Bakadono/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Bakadono
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
+              <a href="/tags/Website/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Website
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">3</span>
+              </a>
+            
+              <a href="/tags/Build/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Build
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
+              <a href="/tags/Haboba/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Haboba
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
+              <a href="/tags/Thaoam/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Thaoam
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
+              <a href="/tags/nihondream/" class="mdui-list-item mdui-ripple" style="display: flex">
+                nihondream
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
               </a>
             
               <a href="/tags/Cui/" class="mdui-list-item mdui-ripple" style="display: flex">
@@ -624,16 +620,16 @@
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">2</span>
               </a>
             
-              <a href="/tags/Free/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Free
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">9</span>
-              </a>
-            
               <a href="/tags/Hexo/" class="mdui-list-item mdui-ripple" style="display: flex">
                 Hexo
                 <div style="flex-grow: 1;"></div>
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">4</span>
+              </a>
+            
+              <a href="/tags/Free/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Free
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">9</span>
               </a>
             
               <a href="/tags/Agribank/" class="mdui-list-item mdui-ripple" style="display: flex">
@@ -652,6 +648,12 @@
                 Theme
                 <div style="flex-grow: 1;"></div>
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">10</span>
+              </a>
+            
+              <a href="/tags/Source/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Source
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
               </a>
             
               <a href="/tags/FeedStuffs/" class="mdui-list-item mdui-ripple" style="display: flex">
@@ -676,30 +678,6 @@
                 FeedMill
                 <div style="flex-grow: 1;"></div>
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
-            
-              <a href="/tags/Source/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Source
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
-            
-              <a href="/tags/Note/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Note
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">5</span>
-              </a>
-            
-              <a href="/tags/Book/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Book
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">5</span>
-              </a>
-            
-              <a href="/tags/ThinkDifferent/" class="mdui-list-item mdui-ripple" style="display: flex">
-                ThinkDifferent
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">5</span>
               </a>
             
               <a href="/tags/Online/" class="mdui-list-item mdui-ripple" style="display: flex">
@@ -756,6 +734,24 @@
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">2</span>
               </a>
             
+              <a href="/tags/Note/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Note
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">10</span>
+              </a>
+            
+              <a href="/tags/Book/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Book
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">10</span>
+              </a>
+            
+              <a href="/tags/becomeRich/" class="mdui-list-item mdui-ripple" style="display: flex">
+                becomeRich
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">5</span>
+              </a>
+            
               <a href="/tags/Water/" class="mdui-list-item mdui-ripple" style="display: flex">
                 Water
                 <div style="flex-grow: 1;"></div>
@@ -790,12 +786,6 @@
                 Official
                 <div style="flex-grow: 1;"></div>
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
-            
-              <a href="/tags/Website/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Website
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">3</span>
               </a>
             
               <a href="/tags/Town/" class="mdui-list-item mdui-ripple" style="display: flex">
@@ -1086,6 +1076,12 @@
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
               </a>
             
+              <a href="/tags/ThinkDifferent/" class="mdui-list-item mdui-ripple" style="display: flex">
+                ThinkDifferent
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">5</span>
+              </a>
+            
               <a href="/tags/Windows/" class="mdui-list-item mdui-ripple" style="display: flex">
                 Windows
                 <div style="flex-grow: 1;"></div>
@@ -1110,24 +1106,6 @@
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
               </a>
             
-              <a href="/tags/CPC/" class="mdui-list-item mdui-ripple" style="display: flex">
-                CPC
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
-            
-              <a href="/tags/CPM/" class="mdui-list-item mdui-ripple" style="display: flex">
-                CPM
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
-            
-              <a href="/tags/Advertising/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Advertising
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
-            
               <a href="/tags/Garlic/" class="mdui-list-item mdui-ripple" style="display: flex">
                 Garlic
                 <div style="flex-grow: 1;"></div>
@@ -1146,8 +1124,20 @@
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
               </a>
             
-              <a href="/tags/Pumpkin/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Pumpkin
+              <a href="/tags/CPC/" class="mdui-list-item mdui-ripple" style="display: flex">
+                CPC
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
+              <a href="/tags/CPM/" class="mdui-list-item mdui-ripple" style="display: flex">
+                CPM
+                <div style="flex-grow: 1;"></div>
+                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
+              </a>
+            
+              <a href="/tags/Advertising/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Advertising
                 <div style="flex-grow: 1;"></div>
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
               </a>
@@ -1158,14 +1148,8 @@
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">2</span>
               </a>
             
-              <a href="/tags/Bakadono/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Bakadono
-                <div style="flex-grow: 1;"></div>
-                <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
-              </a>
-            
-              <a href="/tags/Build/" class="mdui-list-item mdui-ripple" style="display: flex">
-                Build
+              <a href="/tags/Pumpkin/" class="mdui-list-item mdui-ripple" style="display: flex">
+                Pumpkin
                 <div style="flex-grow: 1;"></div>
                 <span class="badge new mdui-color-theme-accent" data-badge-caption="">1</span>
               </a>
@@ -1444,70 +1428,90 @@ addLoadEvent(function(){
   <script src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 
-
-
   <script type="text/javascript">
-    window.addEventListener("load",function(){
-        function doWork(){
-            listens.forEach(function(value,index){
-                value[1]();
-                value[0].classList.remove("mdui-list-item-active");
-            })
-            let actionToc = (listens[listens.reduce(function(r,v,index){
-                if(v[2] == true){
-                    return index;
-                }
-                else return r;
-            },undefined)] || [])[0] || listens[0][0];
-            actionToc.classList.add("mdui-list-item-active");
-            showToc(actionToc);
+    
+      (function() {
+        var items = document.querySelectorAll("div#content-list .content-item");
+        var list = document.querySelector("div.posts-container");
+        var columns = [document.createElement("div"), document.createElement("div"), document.createElement("div")];
+        var level = 4;
+        var sm = 1;
+        var column1Width = 1024;
+        var column2Width = 1400;
+        list.innerHTML = "";
+        function cleanUpdate() {
+          items = document.querySelectorAll("div#content-list .content-item");
+          list.innerHTML = '';
+          columns = [document.createElement("div"), document.createElement("div"), document.createElement("div")];
+          level = 4;
+          updateList();
         }
-        function showToc(toc) {
-            let offsetTop = toc.getClientRects()[0].top - cardToc.getClientRects()[0].top - 40;
-            let offsetBottom = toc.getClientRects()[0].bottom - cardToc.getClientRects()[0].bottom + 40;
-            let offset = 0;
-            if (offsetTop < 0)offset = offsetTop;
-            if (offsetBottom > 0)offset = offsetBottom;
-            cardToc.scrollTop += offset;
+        window.postListCleanUpdate = cleanUpdate;
+        function getColumnNums() {
+          if (document.body.clientWidth <= column1Width) {
+            return 1
+          }
+          if (document.body.clientWidth <= column2Width) {
+            return 2
+          }
+          return 3
         }
-        var listens = [];
-        var cardToc = document.querySelector('#card-toc');
-        var links = document.querySelectorAll("a.post-toc-link");
-        Array.prototype.forEach.call(links,function(value,index){
-            var id = (value.getAttribute("href") || "#").slice(1);
-            var element = document.getElementById(id);
-            listens.push([value,function(){
-                var readed = false;
-                var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
-                if ($$(element).offset().top <= scrollTop + $$(element).height() + 64) {
-                    readed = true;
-                } else {
-                    readed = false;
-                }
-                listens[index][2] = readed;
-            },false])
-        })
-        doWork();
-        window.addEventListener("scroll",doWork)
-    });
-    $$('#post-content img').on('click', function () {
-      $$('#drawer').css('z-index', '1000');
-      var img_src = $$(this).attr('src');
-      var img_alt = $$(this).attr('alt');
-      lightGallery(this, {
-        dynamic: true,
-        counter: false,
-        dynamicEl: [{
-          "src": img_src,
-          'subHtml': "<span author>Nihon Dream</span> • Public<div descr>" + img_alt + "</div>"
-          }],
-      });
-    });
+        function updateList() {
+          var ColumnNums = getColumnNums();
+          if (level == ColumnNums) return;
+          level = ColumnNums;
+          list.setAttribute("class", "column-" + ColumnNums + " posts-container")
+          Array.prototype.forEach.call(items, function(value, index) {
+            var to = index % ColumnNums;
+            columns[to].appendChild(value);
+          })
+          columns.forEach(function(value) {
+            list.appendChild(value)
+          })
+        }
+        window.addEventListener("resize", updateList);
+        updateList();
+      })()
+    
   </script>
 
-  
 
 
+
+
+  <script>
+    var postsCount = $$('div.posts-container div').children('div.content-item').length;
+    if (postsCount === 1) {
+      var postsText = 'Bài viết';
+    } else if (postsCount > 1) {
+      var postsText = 'Bài viết';
+    }
+    $$('div#postsCount').text(postsCount + ' ' + postsText);
+    var content_flag = false;
+    $$(window).on('scroll', function() {
+      var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
+      var contentLocation = $$('div#contentLocation').offset().top - scrollTop - 56;
+      if (!content_flag && contentLocation < 0 && window.innerWidth < 860) {
+        $$('div#blog-appbar').addClass('style-fix');
+        $$('body').removeClass('style-fix');
+        content_flag = true;
+      } else if (content_flag && contentLocation >= 0 && window.innerWidth < 860) {
+        $$('div#blog-appbar').removeClass('style-fix');
+        $$('body').addClass('style-fix');
+        content_flag = false;
+      };
+    });
+    function styleChanging() {
+      var hide = new mdui.Headroom('div#blog-appbar');
+      var windowWidth = window.innerWidth, toLeftWidth = 860;
+      if (windowWidth < toLeftWidth) {
+        hide.enable();
+      } else {
+        hide.disable();
+      }
+    };
+    styleChanging();
+  </script>
 
 
 
